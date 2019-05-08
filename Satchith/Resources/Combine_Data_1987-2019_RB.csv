@@ -1,0 +1,973 @@
+Year,Name,College,POS,Height (in),Weight (lbs),Hand Size (in),Arm Length (in),Wonderlic,40 Yard,Bench Press,Vert Leap (in),Broad Jump (in),Shuttle,3Cone,60Yd Shuttle
+2019,Rodney Anderson,Oklahoma,RB,72,224,9.75,30.75,,,25,,,,,
+2019,Ryquell Armstead,Temple,RB,71,220,9.13,30.63,,4.45,22,30,114,4.29,7.02,
+2019,Alex Barnes,Kansas State,RB,72,226,10,31,,4.59,34,38.5,126,4.1,6.95,11.72
+2019,Nick Brossette,LSU,RB,71,209,8.63,30,,4.72,15,35.5,118,4.44,7.38,
+2019,Myles Gaskin,Washington,RB,69,205,8.75,29.5,,4.58,24,35.5,118,4.27,7.19,11.77
+2019,Damien Harris,Alabama,RB,70,216,9.75,30.75,,4.57,16,37,121,,,
+2019,Darrell Henderson,Memphis,RB,68,208,8.63,31,,4.49,22,33.5,121,,,
+2019,Karan Higdon,Michigan,RB,69,206,9.63,30.75,,4.49,21,34,123,,,
+2019,Justice Hill,Oklahoma State,RB,70,198,9.5,31.63,,4.4,21,40,130,,,
+2019,Elijah Holyfield,Georgia,RB,70,217,9,30.38,,4.78,26,29.5,118,,,
+2019,Travis Homer,Miami (FL),RB,70,201,10,31.5,,4.48,17,39.5,130,4.31,7.07,
+2019,Josh Jacobs,Alabama,RB,70,220,10.13,31.63,,,,,,,,
+2019,Jonathan Love,Stanford,RB,69,200,9.13,29.38,,,18,,,,,
+2019,Alexander Mattison,Boise State,RB,71,221,9.13,31,,4.67,22,35,127,4.29,7.13,11.69
+2019,David Montgomery,Iowa State,RB,70,222,9.25,31.38,,4.63,15,28.5,121,,,
+2019,Jalin Moore,Appalachian State (NC),RB,70,212,9.25,32.38,,,27,,,,,
+2019,Qadree Ollison,Pittsburgh,RB,73,228,9.63,31.5,,4.58,19,29.5,114,4.31,7.53,
+2019,Tony Pollard,Memphis,RB,72,210,9.5,30,,4.52,13,35,121,,,
+2019,Miles Sanders,Penn State,RB,71,211,9.25,30.63,,4.49,20,36,124,4.19,6.89,
+2019,Jordan Scarlett,Florida,RB,71,208,8.88,30.38,,4.47,21,30,116,4.63,7.37,
+2019,LJ Scott,Michigan State,RB,72,227,9.38,32.13,,,21,33,120,4.34,7.27,
+2019,Devin Singletary,Florida Atlantic,RB,67,203,8.5,28.88,,4.66,15,35,117,4.4,7.32,
+2019,Benny Snell,Kentucky,RB,70,224,9.38,31,,4.66,16,29.5,119,4.33,7.07,
+2019,Mike Weber,Ohio State,RB,70,211,9.38,29.75,,4.47,22,33.5,,,,
+2019,Dexter Williams,Notre Dame,RB,71,212,9.63,32.25,,4.57,17,36,130,4.16,7,
+2019,James Williams,Washington State,RB,69,197,9.25,30.38,,4.58,,36.5,118,4.25,7.01,12.2
+2019,Trayveon Williams,Texas A&M,RB,68,206,9.25,30.38,,4.51,19,33,121,4.44,7.44,
+2018,Josh Adams,Notre Dame,RB,74,213,9.25,33.75,,,18,,,,,
+2018,Kalen Ballage,Arizona State,RB,73,228,9.5,32.75,,4.46,15,33.5,122,4.35,6.91,
+2018,Saquon Barkley,Penn State,RB,72,233,9.5,31.38,,4.4,29,41,,4.24,,
+2018,Nick Chubb,Georgia,RB,71,227,9.63,32,,4.52,29,38.5,128,4.25,7.09,
+2018,Lavon Coleman,Washington,RB,71,215,9.25,30.5,,4.65,23,33,120,,,
+2018,Justin Crawford,West Virginia,RB,71,199,9.13,32,,4.64,11,33.5,122,,,
+2018,Chase Edmonds,Fordham (NY),RB,69,205,9.13,31.13,,4.55,19,34,122,4.07,6.79,11.63
+2018,Jarvion Franklin,Western Michigan,RB,71,239,9.25,31.25,,4.63,18,30,109,4.31,6.93,11.81
+2018,Royce Freeman,Oregon,RB,71,229,9.5,32,,4.54,17,34,118,4.16,6.9,11.64
+2018,Derrius Guice,LSU,RB,70,224,9.75,30.75,,4.49,15,31.5,,,,
+2018,Kyle Hicks,TCU,RB,70,204,9.5,32.5,,4.63,13,36.5,122,,,
+2018,Nyheim Hines,North Carolina State,RB,68,198,8.88,30.75,,4.38,,35.5,119,4.35,7.18,
+2018,Justin Jackson,Northwestern,RB,72,199,9.25,30.63,,4.52,13,38.5,122,4.07,6.81,11.06
+2018,Kerryon Johnson,Auburn,RB,71,213,9.75,32.5,,,11,40,126,4.29,7.07,
+2018,Ronald Jones,USC,RB,71,205,8.75,31.13,,4.65,,36.5,,,,
+2018,John Kelly,Tennessee,RB,70,216,9.38,31.38,,,15,35,120,4.51,7.13,
+2018,Sony Michel,Georgia,RB,71,214,9.13,31.25,,4.54,22,,,4.21,,
+2018,Ryan Nall,Oregon State,RB,74,232,10.5,31.5,,4.58,15,33,122,4.16,6.95,11.57
+2018,Rashaad Penny,San Diego State,RB,71,220,9.25,31.25,,4.46,13,32.5,120,,,
+2018,Kamryn Pettway,Auburn,RB,72,233,9.5,31.25,,4.74,22,33.5,116,,,
+2018,Bo Scarbrough,Alabama,RB,73,228,10.5,33.5,,4.52,14,40,129,4.34,,
+2018,Roc Thomas,Jacksonville State (AL),RB,70,198,9.25,31.63,,4.56,16,35.5,125,,,
+2018,Akrum Wadley,Iowa,RB,70,194,8.25,29.5,,4.54,12,32,,,,
+2018,Mark Walton,Miami (FL),RB,70,202,9.25,30,,4.6,18,31.5,118,,,
+2018,Chris Warren,Texas,RB,74,247,10,32,,4.69,25,33,121,4.18,6.98,12.03
+2018,Jordan Wilkins,Mississippi,RB,73,216,9.38,30.13,,,16,36,117,4.27,,
+2017,Christopher Carson,Oklahoma State,RB,72.25,218,9.63,33.25,,4.58,23,37,130,,,
+2017,Corey Clement,Wisconsin,RB,70.25,220,9.75,30.5,,4.68,19,28.5,115,4.53,,
+2017,Tarik Cohen,North Carolina A&T,RB,66.38,179,10.13,29.75,,4.42,11,31.5,118,,,
+2017,James Conner,Pittsburgh,RB,73.25,233,9.88,31.25,,4.65,20,29,113,,,
+2017,Dalvin Cook,Florida State,RB,71.13,210,9.25,32.38,,4.49,22,30.5,116,4.53,7.27,
+2017,Justin Davis,USC,RB,72.63,208,9.63,31,,,21,,,4.32,,11.29
+2017,Matt Dayes,North Carolina State,RB,68.63,205,10.5,30,12,,18,28,109,,,
+2017,Tarean Folston,Notre Dame,RB,69,214,,,,,,,,4.2,,11.53
+2017,D'Onta Foreman,Texas,RB,72.25,233,10.13,31.38,,,18,,,4.28,,
+2017,Leonard Fournette,LSU,RB,72.13,240,9.25,31.63,11,4.51,,28.5,,,,
+2017,Wayne Gallman,Clemson,RB,72.25,215,9.13,32.63,,4.6,21,29.5,120,4.28,7.17,11.92
+2017,DeAngelo Henderson,Coastal Carolina (SC),RB,67.5,208,9.5,29,,4.48,20,34,120,,,
+2017,Brian Hill,Wyoming,RB,72.63,219,8.88,31.38,,4.54,15,34,125,4.32,7.03,
+2017,Elijah Hood,North Carolina,RB,71.75,232,9.38,30.38,,,18,,,4.34,,
+2017,Kareem Hunt,Toledo,RB,70.5,216,9.63,31.38,,4.62,18,36.5,119,,,
+2017,Aaron Jones,Texas-El Paso,RB,69.13,208,9.5,32.5,,4.56,16,37.5,127,4.2,6.82,
+2017,Alvin Kamara,Tennessee,RB,69.75,214,9.25,32.75,24,4.56,15,39.5,131,4.56,,11.78
+2017,T.J. Logan,North Carolina,RB,69.13,196,9,32,,4.37,17,33.5,121,4.43,,12
+2017,Marlon Mack,South Florida,RB,70.75,213,9,32,,4.5,15,35.5,125,4.22,,11.03
+2017,Christian McCaffrey,Stanford,RB,71.25,202,9,30,21,4.48,10,37.5,121,4.22,6.57,11.03
+2017,Elijah McGuire,Louisiana-Lafayette,RB,69.75,214,9,31,,4.53,15,36,120,4.56,7.26,
+2017,Jeremy McNichols,Boise State,RB,68.63,214,10,31.5,,4.49,,35.5,121,4.28,6.93,
+2017,Joe Mixon,Oklahoma,RB,73,226,,,12,,,,,,,
+2017,Dare Ogunbowale,Wisconsin,RB,70.75,213,9.13,31.38,36,4.65,14,35,120,4.34,6.99,11.75
+2017,Samaje Perine,Oklahoma,RB,70.63,233,10,30.38,,4.65,30,33,116,4.37,7.26,
+2017,Donnel Pumphrey,San Diego State,RB,68.25,176,8.5,29,21,4.48,5,33.5,117,4.46,,12.03
+2017,Devine Redding,Indiana,RB,68.25,205,9.63,29.25,,4.76,16,30.5,116,4.46,7.18,11.21
+2017,Rushel Shell,West Virginia,RB,69.63,227,9.63,30,,4.74,21,32.5,,4.08,,
+2017,De'Veon Smith,Michigan,RB,70.88,223,9,29.5,,,22,29,108,4.56,7.3,
+2017,Jahad Thomas,Temple,RB,69.63,190,9,30.13,,4.62,11,32,116,,,
+2016,Peyton Barber,Auburn,RB,70,228,9.38,30.25,,4.64,20,32.5,111,4.21,7,11.65
+2016,Devontae Booker,Utah,RB,70.75,219,8.63,31.63,,,22,,,,,
+2016,Tra Carson,Texas A&M,RB,71.25,227,9.25,31.5,,,19,,,,,
+2016,Alex Collins,Arkansas,RB,70,217,9.25,30.25,,4.59,18,28.5,113,,,
+2016,Marshaun Coprich,Illinois State,RB,68,207,9,29.63,,4.47,17,34,112,4.58,7.26,12.09
+2016,Kenneth Dixon,Louisiana Tech,RB,70.13,215,9.5,31.38,,4.56,18,37.5,121,4.28,6.97,11.5
+2016,Kenyan Drake,Alabama,RB,72.63,210,9.75,31.75,,4.45,10,34.5,123,4.21,7.04,
+2016,Ezekiel Elliott,Ohio State,RB,71.75,225,10.25,31.25,,4.47,,32.5,118,,,
+2016,Tyler Ervin,San Jose State,RB,69.88,192,9.13,29.75,,4.41,17,39,130,,,
+2016,Josh Ferguson,Illinois,RB,69.5,198,9,30,,4.48,21,34.5,120,,,
+2016,Glenn Gronkowski,Kansas State,RB,74.13,239,9.5,30.75,,4.71,17,33,120,4.45,7.1,11.95
+2016,Derrick Henry,Alabama,RB,74.63,247,8.75,33,,4.54,22,37,130,4.38,7.2,11.5
+2016,Quayvon Hicks,Georgia,RB,72.88,259,9.63,31.25,,,,,,,,
+2016,Jordan Howard,Indiana,RB,71.88,230,9,32.25,,,16,34,122,,,
+2016,Andy Janovich,Nebraska,RB,73,238,9.75,31.63,,4.81,30,34,119,4.32,7.28,11.95
+2016,Devon Johnson,Marshall (WV),RB,72.5,238,9.25,31.25,,,,,,,,
+2016,Daniel Lasco,California,RB,72.25,209,9.13,32,,4.46,23,41.5,135,4.26,7.22,11.31
+2016,Tre Madden,USC,RB,72.25,223,9.38,29.75,,,24,,,,,
+2016,Keith Marshall,Georgia,RB,71.38,219,9.38,31.63,,4.31,25,30.5,,,,
+2016,Paul Perkins,UCLA,RB,70.38,208,9,31.63,,4.54,19,32,124,,,
+2016,C.J. Prosise,Notre Dame,RB,72.5,220,8.5,32.13,,4.48,,35.5,121,,,
+2016,Wendell Smallwood,West Virginia,RB,70.5,208,9.25,30.5,,4.47,14,33.5,120,4.28,6.83,11.14
+2016,Kelvin Taylor,Florida,RB,70.25,207,8.25,29.25,,4.6,15,32,113,,,
+2016,Shadrach Thornton,North Carolina State,RB,71.63,217,,,,4.75,12,31,116,4.21,6.85,
+2016,Soma Vainuku,USC,RB,71.5,246,9.5,32.75,,4.68,26,32,108,,,
+2016,Dan Vitale,Northwestern,RB,72,239,9.75,31.75,,4.6,30,38.5,123,4.12,7.12,11.36
+2016,DeAndre Washington,Texas Tech,RB,68.25,204,9,30,,4.49,24,34.5,116,4.2,7.03,11.63
+2016,Brandon Wilds,South Carolina,RB,72.75,220,,,,4.54,21,36.5,118,4.33,7.08,
+2016,Jonathan Williams,Arkansas,RB,70,220,10,31.63,,,16,,,,,
+2015,Ameer Abdullah,Nebraska,RB,68.75,205,8.63,30,,4.6,24,42.5,130,3.95,6.79,11.18
+2015,Malcolm Agnew,Southern Illinois,RB,70,202,,,,4.59,,,,,,
+2015,Jay Ajayi,Boise State,RB,71.75,221,10,32,24,4.57,19,39,121,4.1,7.1,11.1
+2015,Javorius Allen,USC,RB,72.5,221,9.38,31.75,12,4.53,11,35.5,121,4.28,6.96,
+2015,Cameron Artis-Payne,Auburn,RB,69.75,212,8.88,29.63,,4.53,,36.5,118,,7.13,
+2015,Bill Belton,Penn State,RB,69,204,,,,4.55,,,,,,
+2015,Joe Bergeron,Texas A&M-Commerce,RB,73,235,,,,4.62,,,,,,
+2015,Dominique Brown,Louisville,RB,73.88,234,9.5,32.38,,4.62,17,,,,,
+2015,Malcolm Brown,Texas,RB,71.38,224,10.25,32.75,,4.62,19,34.5,117,4.15,6.86,11.32
+2015,Jesse Callier,Washington,RB,70,202,,,,4.53,,,,,,
+2015,B.J. Catalon,TCU,RB,67.38,186,9,30,,4.57,,36,114,4.15,6.9,
+2015,Jawon Chisholm,Akron,RB,73,202,,,,4.63,,,,,,
+2015,David Cobb,Minnesota,RB,70.88,229,9.38,31.63,,4.59,17,38.5,121,,,
+2015,Tevin Coleman,Indiana,RB,71.38,206,8.63,32,,4.59,22,,,,,
+2015,Tony Creecy,North Carolina State,RB,71,215,,,,4.56,,,,,,
+2015,John Crockett,North Dakota State,RB,71.75,217,9.75,31,,4.62,15,40,125,4.25,7.15,
+2015,Mike Davis,South Carolina,RB,69.13,217,9.38,30.25,,4.61,17,34,116,4.18,7,11.65
+2015,Synjyn Days,Georgia Tech,RB,73,232,,,,4.67,,,,,,
+2015,Michael Dyer,Louisville,RB,68.5,218,9.5,30.63,,4.58,26,34,120,,,
+2015,Jahwan Edwards,Ball State (IN),RB,69.5,220,8.88,31.63,,4.8,16,35.5,117,4.5,7.63,12.4
+2015,Melvin Gordon,Wisconsin,RB,72.63,215,9.75,32.38,20,4.52,19,35,126,4.07,7.04,11
+2015,Corey Grant,Auburn,RB,69,201,,,,4.28,,,,,,
+2015,Prince-Tyson Gulley,Syracuse,RB,68,194,,,,4.63,,,,,,
+2015,Todd Gurley,Georgia,RB,72.63,222,10,31.5,12,4.52,17,,,,,
+2015,Alonzo Harris,Louisiana-Lafayette,RB,73,243,,,,4.56,,,,,,
+2015,Dee Hart,Colorado State,RB,67.5,199,9,29.75,,4.8,,33,113,4.38,7.2,
+2015,Braylon Heard,Kentucky,RB,69.63,198,9,30.25,,4.63,19,30.5,116,4.4,7.19,
+2015,Joe Hill,Utah State,RB,70,183,,,,4.3,,,,,,
+2015,Keshawn Hill,Sam Houston State (TX),RB,70,211,,,,4.59,,,,,,
+2015,Nick Hill,Michigan State,RB,68,197,,,,4.4,,,,,,
+2015,Kenny Hilliard,LSU,RB,71.63,226,9.25,31.25,,4.83,,27,111,4.4,7.17,
+2015,Akeem Hunt,Purdue,RB,69,189,,,,4.38,,,,,,
+2015,Jordon James,UCLA,RB,68,194,,,,4.43,,,,,,
+2015,David Johnson,Northern Iowa,RB,72.63,224,9.63,31.25,,4.5,25,41.5,127,4.27,6.82,
+2015,Duke Johnson,Miami (FL),RB,69.13,207,9.25,30.38,,4.54,,33.5,121,,,
+2015,Gus Johnson,Stephen F. Austin (TX),RB,69.63,215,9.13,29.63,,4.7,26,36.5,120,4.13,7.09,11.76
+2015,Matt Jones,Florida,RB,74.38,231,8.63,32,,4.61,20,31.5,112,4.2,,
+2015,Terris Jones-Grigsby,Arizona,RB,67,198,,,,4.56,,,,,,
+2015,Marlin Lane,Tennessee,RB,71,210,,,,4.59,,,,,,
+2015,Jeremy Langford,Michigan State,RB,71.63,208,8.75,31.5,,4.42,,34.5,118,4.32,7.22,
+2015,Terrence Magee,LSU,RB,68.5,213,9,30,,4.57,22,37,115,4.37,7.52,
+2015,Venric Mark,West Texas A&M,RB,67,175,,,,4.38,,,,,,
+2015,Lyle McCombs,Rhode Island,RB,68,171,,,,4.57,,,,,,
+2015,Raheem Mostert,Purdue,RB,71,190,,,,4.34,,,,,,
+2015,Marcus Murphy,Missouri,RB,68,193,8.63,31,,4.61,11,29,109,4.4,,
+2015,Kevin Parks,Virginia,RB,66,201,,,,4.53,,,,,,
+2015,Thomas Rawls,Central Michigan,RB,69,215,9.5,30.75,,4.65,15,35.5,116,,,
+2015,Josh Robinson,Mississippi State,RB,67.88,217,10.13,29.75,,4.7,21,32,113,,,
+2015,Dreamius Smith,West Virginia,RB,71,217,,,,4.59,,,,,,
+2015,Terron Ward,Oregon State,RB,67,197,,,,4.49,,,,,,
+2015,Terrell Watson,Azusa Pacific (CA),RB,73,239,,,,4.59,,,,,,
+2015,Brandon Wegher,Morningside (IA),RB,70,214,,,,4.52,,,,,,
+2015,Karlos Williams,Florida State,RB,72.75,230,9.75,33,,4.48,16,33.5,117,4.46,7.16,
+2015,Kenny Williams,Texas Tech,RB,69,225,,,,4.58,,,,,,
+2015,Trey Williams,Texas A&M,RB,67.5,195,8.25,29.88,,4.49,18,33.5,119,4.12,6.84,11.45
+2015,T.J. Yeldon,Alabama,RB,73,226,9,31.63,,4.61,22,36,117,4.22,7.19,
+2014,Antonio Andrews,Western Kentucky,RB,70.13,225,9.5,31.25,,4.82,20,29.5,104,4.49,7.24,
+2014,George Atkinson,Notre Dame,RB,73.38,218,9.38,33.25,,4.48,19,38,128,4.46,7.07,11.5
+2014,Kapri Bibbs,Colorado State,RB,69.38,212,8.5,31.38,,4.67,24,29,104,,,
+2014,Alfred Blue,LSU,RB,74.38,223,9.88,32.38,,4.63,13,32,121,4.5,7.15,
+2014,KaDeem Carey,Arizona,RB,69.38,207,9.5,31.75,,4.7,19,32.5,114,4.38,7.08,
+2014,Tim Cornett,Nevada Las Vegas,RB,72.25,209,9.25,31,,4.48,,34.5,124,4.26,7.01,11.72
+2014,Isaiah Crowell,Alabama State,RB,71,224,9.25,31.38,,4.57,23,38,116,,,
+2014,Tim Flanders,Sam Houston State (TX),RB,68.63,207,,,,4.75,20,32,112,,7.07,
+2014,David Fluellen,Toledo,RB,71.13,224,9.13,33.38,,4.72,,36.5,120,,6.9,
+2014,Devonta Freeman,Florida State,RB,68.25,206,9.63,29.38,,4.58,,31.5,116,4.26,7.11,
+2014,Tyler Gaffney,Stanford,RB,71.5,220,9,30.25,,4.49,,36.5,115,4.18,6.78,11.36
+2014,Jeremy Hill,LSU,RB,72.63,233,10.38,32.63,,4.56,20,29,112,,,
+2014,Carlos Hyde,Ohio State,RB,71.88,230,9.63,32,9,4.62,19,34.5,113,,,
+2014,Storm Johnson,Central Florida,RB,71.63,209,9.5,32,,4.6,16,35.5,116,,,
+2014,Henry Josey,Missouri,RB,68.13,194,9.5,30.25,,4.43,20,34.5,116,4.13,7.07,11.67
+2014,Tre Mason,Auburn,RB,68.5,207,9,30,,4.5,,38.5,125,4.15,,
+2014,Jerick McKinnon,Georgia Southern,RB,68.88,209,8.63,30.25,,4.41,32,40.5,132,4.12,6.83,
+2014,LaDarius Perkins,Mississippi State,RB,67.38,195,9.63,31,,4.46,23,35.5,123,4.3,7.08,
+2014,Silas Redd,USC,RB,69.75,212,9,30.75,,4.7,18,37,122,,,
+2014,Bishop Sankey,Washington,RB,69.5,209,10,31,,4.49,26,35.5,125,4,6.75,
+2014,Lache Seastrunk,Baylor,RB,69.5,201,9.25,30,,4.51,15,41.5,134,,,
+2014,Charles Sims,West Virginia,RB,72,214,8.25,31,,4.48,17,37.5,125,4.3,7.16,
+2014,Jerome Smith,Syracuse,RB,71.13,220,9.75,30.88,,4.84,14,36,116,4.6,7.53,
+2014,Lorenzo Taliaferro,Coastal Carolina (SC),RB,72.25,229,8.38,32,,4.58,18,33,116,4.22,6.88,
+2014,DeAnthony Thomas,Oregon,RB,68.63,174,8.13,29.88,,4.5,8,32,123,,,
+2014,Terrance West,Towson (MD),RB,69.25,225,9.13,31,,4.56,16,33.5,120,,,
+2014,James White,Wisconsin,RB,69.13,204,8.25,29.25,,4.57,23,32,113,4.2,7.05,11.76
+2014,James Wilder,Florida State,RB,74.63,232,9.75,32,,4.86,18,35,121,4.24,6.92,12.03
+2014,Andre Williams,Boston College,RB,71.38,230,,,,4.56,,38,128,4.06,7.27,
+2014,Damien Williams,Oklahoma,RB,71,222,9.13,30.63,,4.45,16,35.5,121,4.25,7.37,11.76
+2013,C.J. Anderson,California,RB,68.13,224,9.08,30,,4.6,17,32,119,4.12,7.15,
+2013,Montee Ball,Wisconsin,RB,70.5,214,9.08,32.63,,4.66,15,32,118,4.4,6.88,
+2013,Kenjon Barner,Oregon,RB,69.25,196,9.18,29.63,,4.52,20,35.5,122,4.2,6.87,11.33
+2013,Le'Veon Bell,Michigan State,RB,73.38,230,9.58,,,4.6,24,31.5,118,4.24,6.75,
+2013,Giovani Bernard,North Carolina,RB,68.38,202,9.38,28,25,4.53,19,33.5,122,4.12,6.91,11.41
+2013,Rex Burkhead,Nebraska,RB,70.25,214,9.68,30.88,,4.73,21,39,125,4.09,6.85,11.51
+2013,Knile Davis,Arkansas,RB,71.38,227,8.58,29.75,,4.37,31,33.5,121,4.38,6.96,
+2013,Andre Ellington,Clemson,RB,69.25,199,9.38,31,,4.61,,34,122,,,
+2013,Michael Ford,LSU,RB,69.5,210,9.08,30.38,,4.5,25,38.5,130,4.25,6.87,11.43
+2013,Johnathan Franklin,UCLA,RB,70,205,9.38,30,,4.49,18,31.5,115,4.31,6.89,11.33
+2013,Mike Gillislee,Florida,RB,71.13,208,9.38,31.13,,4.55,15,30.5,119,4.4,7.12,12.02
+2013,Ray Graham,Pittsburgh,RB,69.13,199,9.58,30.25,,4.8,18,32.5,112,4.21,7.17,11.63
+2013,D.J. Harper,Boise State,RB,69.13,211,10.28,31,,4.52,23,33.5,120,4.35,7.07,11.85
+2013,Montel Harris,Temple,RB,68.25,208,9.38,30.5,,4.68,19,32.5,113,4.18,6.95,
+2013,Mike James,Miami (FL),RB,70.5,223,9.68,31.63,,4.53,28,35,115,4.62,,
+2013,Jawan Jamison,Rutgers,RB,67.38,203,8.38,29,,4.68,20,29,110,,,
+2013,Stefphon Jefferson,Nevada,RB,70.5,213,9.18,30.25,,4.68,15,31,117,4.44,6.97,11.8
+2013,Eddie Lacy,Alabama,RB,73,220,9.48,31,17,4.55,,,,,,
+2013,Marcus Lattimore,South Carolina,RB,71,219,,,18,4.65,,,,,,
+2013,Miguel Maysonet,Stony Brook (NY),RB,69,209,8.48,29.38,,4.54,20,,,4.43,7.21,
+2013,Onterio McCalebb,Auburn,RB,70.25,168,9.08,31,,4.34,,34,121,,,
+2013,Christine Michael,Texas A&M,RB,70,220,9.38,31.5,11,4.54,27,43,125,4.02,6.69,11.56
+2013,Joseph Randle,Oklahoma State,RB,72,204,8.68,31.75,,4.63,,35,123,,,
+2013,Theo Riddick,Notre Dame,RB,70.13,201,8.68,30,,4.68,,32,118,,,
+2013,Robbie Rouse,Frenso State (CA),RB,65.75,190,9.28,28.38,,4.8,15,34,114,4.25,6.97,11.56
+2013,Zac Stacy,Vanderbilt,RB,68.38,216,8.58,30.25,,4.55,27,33,122,4.17,6.7,
+2013,Stepfan Taylor,Stanford,RB,69.13,214,8.58,30.13,,4.76,17,30,110,4.5,7.13,12.06
+2013,Chris Thompson,Florida State,RB,67.13,192,9.28,30.25,,4.42,21,,,,,
+2013,Matthew Tucker,TCU,RB,72.38,221,9.28,30.25,,4.55,17,35.5,118,,,
+2013,Kerwynn Williams,Utah State,RB,68.13,196,9.18,29.75,,4.48,17,35,118,4.15,7.15,12.04
+2013,George Winn,Cincinnati,RB,70.5,218,9.78,30.88,,4.75,22,34.5,119,,,
+2013,Cierre Wood,Notre Dame,RB,71,213,8.58,30.88,,4.56,16,37.5,124,,,
+2012,Edwin Baker,Michigan State,RB,68,204,8.13,29.63,,4.44,20,35,111,4.31,7.27,
+2012,Mike Ball,Nevada,RB,68.5,206,9.13,31,,4.54,21,36,112,4.23,7.1,11.84
+2012,Vick Ballard,Mississippi State,RB,70.25,219,9.5,31.75,,4.59,23,33,115,4.19,7.03,
+2012,Brandon Bolden,Mississippi,RB,70.88,222,10,32.25,,4.55,21,38,119,4.44,6.96,
+2012,Lennon Creer,Louisiana Tech,RB,71.38,219,9.25,31.5,,4.67,21,33.5,110,4.4,7.26,
+2012,Terrance Ganaway,Baylor,RB,71.5,239,9.25,31.63,,4.61,,37.5,119,4.25,7.15,11.65
+2012,Cyrus Gray,Texas A&M,RB,70.38,206,9.13,29.5,,4.4,21,32.5,114,,7.17,
+2012,Jonas Gray,Notre Dame,RB,69.75,223,10,31.38,,4.58,20,,,,,
+2012,Jewel Hampton,Southern Illinois,RB,68.63,218,9.63,31,,4.56,26,,,,,
+2012,Dan Herron,Ohio State,RB,69.75,213,9,32,,4.57,22,35,117,4.04,6.97,11.6
+2012,Ronnie Hillman,San Diego State,RB,68.75,200,8.5,30,,4.42,17,37,,,,
+2012,LaMichael James,Oregon,RB,68,194,9,30.25,,4.35,15,35,123,4.12,6.88,
+2012,Doug Martin,Boise State,RB,69.25,223,9,30.5,,4.46,28,36,120,4.16,6.79,11.29
+2012,Davin Meggett,Maryland,RB,68.25,211,9.5,30.13,,4.5,23,35,118,4.32,7.14,11.53
+2012,Lamar Miller,Miami (FL),RB,70.75,212,9.25,31.38,,4.34,,33,,,,
+2012,Alfred Morris,Florida Atlantic,RB,69.88,219,10.25,31.38,,4.63,16,35.5,117,4.19,7.01,11.86
+2012,Isaiah Pead,Cincinnati,RB,70.13,197,8.63,31,,4.39,,33,116,4.32,6.95,
+2012,Bernard Pierce,Temple,RB,72.25,218,9.25,31.5,,4.45,17,36.5,123,4.28,7.07,
+2012,Chris Polk,Washington,RB,70.5,215,9.75,31.5,,4.52,,31.5,111,4.21,7.13,
+2012,Tauren Poole,Tennessee,RB,70,205,8,29.75,,4.48,24,34,118,4.19,7.36,
+2012,Chris Rainey,Florida,RB,68.38,180,9.5,30.75,,4.36,16,36.5,120,3.93,6.5,11.06
+2012,Daryl Richardson,Abilene Christian (TX),RB,70,192,,,,4.47,,,,,,
+2012,Trent Richardson,Alabama,RB,69.25,228,9.5,30.25,,4.49,,,,,,
+2012,Darrell Scott,South Florida,RB,72.13,231,8.25,32,,4.68,,31.5,,,,
+2012,Michael Smith,Utah State,RB,69,207,,,,4.36,,,,,,
+2012,Robert Turbin,Utah State,RB,70,222,9.75,31,,4.42,28,36,122,4.31,7.16,
+2012,Marc Tyler,USC,RB,70.63,219,9.5,32,,4.7,19,30.5,110,,,
+2012,Foswhitt Whittaker,Texas,RB,69,193,9.25,,,4.49,20,,,,,
+2012,David Wilson,Virginia Tech,RB,70,206,9.38,30.25,,4.38,,41,132,4.12,7.09,11.59
+2011,Anthony Allen,Georgia Tech,RB,72.75,228,9.63,30.38,,4.56,24,41.5,120,4.06,6.79,11.46
+2011,Armando Allen,Notre Dame,RB,68.25,199,8.75,30.25,,4.52,23,,,,,
+2011,Matt Asiata,Utah,RB,71,229,9.5,30.13,,4.77,22,30,104,4.37,7.09,11.96
+2011,Damien Berry,Miami (FL),RB,70.25,211,9.38,32.25,,4.58,23,33.5,120,4.12,7,
+2011,Allen Bradford,USC,RB,70.88,242,9.38,32.13,,4.53,28,29,113,4.39,6.97,
+2011,Delone Carter,Syracuse,RB,68.63,222,9.5,31,,4.54,27,37,120,4.07,6.92,
+2011,John Clay,Wisconsin,RB,72.5,230,8.75,31,,4.83,,29,111,,,
+2011,Graig Cooper,Miami (FL),RB,70,205,9.5,31.75,,4.6,18,,114,4.03,6.66,
+2011,Noel Devine,West Virginia,RB,67.5,179,8.63,29.25,,4.34,24,,,,,
+2011,Shaun Draughn,North Carolina,RB,70.88,213,10,31,,4.73,21,34,118,4.2,7.15,
+2011,Darren Evans,Virginia Tech,RB,72,227,9.75,31.75,,4.56,26,35,111,4.46,6.96,11.78
+2011,Mario Fannin,Auburn,RB,70.38,231,9.5,30.75,,4.37,21,37.5,115,4.21,6.99,
+2011,Alex Green,Hawaii,RB,72.25,225,9.13,32,,4.45,20,34,114,4.15,6.91,
+2011,Jamie Harper,Clemson,RB,71.38,233,8.88,30.38,,4.53,24,36.5,120,4.39,7.16,
+2011,Roy Helu,Nebraska,RB,71.5,219,10.25,31.38,,4.4,11,36.5,119,4.01,6.67,11.07
+2011,Kendall Hunter,Oklahoma State,RB,67.25,199,8.75,31,,4.46,24,35,122,4.21,6.74,11.19
+2011,Mark Ingram,Alabama,RB,69.13,215,9.5,30.75,,4.62,21,31.5,113,4.62,7.13,
+2011,Taiwan Jones,Eastern Washington,RB,71.63,194,8.75,29.5,,4.53,13,32,115,4.33,7.25,
+2011,Mikel Leshoure,Illinois,RB,71.63,227,9.5,32.63,,4.56,21,38,122,4.4,6.82,
+2011,Dion Lewis,Pittsburgh,RB,66.63,193,8.75,28.13,,4.56,17,34.5,112,4.18,6.9,11.39
+2011,Derrick Locke,Kentucky,RB,68.25,188,9,28.88,,4.37,16,37.5,118,4.15,6.98,
+2011,DeMarco Murray,Oklahoma,RB,71.63,213,9.25,32,,4.37,21,34.5,130,4.18,7.28,
+2011,Bilal Powell,Louisville,RB,70.5,207,8.75,30.88,,4.52,18,,,,,
+2011,Stevan Ridley,LSU,RB,71.25,225,9.25,31.88,,4.65,18,36,118,4.21,6.78,
+2011,Jacquizz Rodgers,Oregon State,RB,65.88,196,8.88,30.5,,4.59,,33,113,4.26,7.31,
+2011,Evan Royster,Penn State,RB,71.63,212,9.25,30.75,,4.65,20,34,113,4.18,7.07,
+2011,Brandon Saine,Ohio State,RB,71.25,220,9.25,30.63,,4.4,22,34.5,113,4.25,6.98,
+2011,Da'Rel Scott,Maryland,RB,71,211,9,32.5,,4.4,19,34,117,4.2,7.15,11.51
+2011,Vai Taua,Nevada,RB,69.5,213,9.25,31.13,,4.65,20,34.5,112,4.18,6.89,
+2011,Daniel Thomas,Kansas State,RB,72.25,230,9,32.38,,4.63,21,,,,,
+2011,Jordan Todman,Connecticut,RB,68.88,203,9.38,32,,4.4,25,38,126,4.18,7.24,11.25
+2011,Shane Vereen,California,RB,70.25,210,9,30.63,,4.49,31,34,115,4.28,6.95,11.58
+2011,Johnny White,North Carolina,RB,69.88,209,9.13,30,,4.5,,32.5,117,4.31,7.07,11.62
+2011,Ryan Williams,Virginia Tech,RB,69,212,9,30.75,,4.59,19,40,123,4.18,6.96,11.4
+2010,Joique Bell,Wayne State (MI),RB,71.25,220,9,31.5,,4.68,,36.5,120,4.17,6.84,11.33
+2010,Jahvid Best,California,RB,70.13,199,,,24,4.34,18,32.5,113,4.17,6.75,
+2010,LeGarrette Blount,Oregon,RB,72.5,241,10,33.5,16,4.7,18,35,117,4.49,6.85,
+2010,Chris Brown,Oklahoma,RB,70.38,210,9.13,29,,4.55,17,36,115,,,
+2010,Andre Dixon,Connecticut,RB,72.75,205,10.13,32.25,,4.56,,40,117,4.19,6.99,11.55
+2010,Anthony Dixon,Mississippi State,RB,72.75,233,,,25,4.67,15,33,121,4.49,7.09,
+2010,Jonathan Dwyer,Georgia Tech,RB,71.25,229,8.63,31,17,4.64,15,33,107,4.67,7.56,
+2010,Toby Gerhart,Stanford,RB,72,231,,,,4.5,22,38,118,4.25,6.94,
+2010,Montario Hardesty,Tennessee,RB,71.75,225,,,25,4.49,21,41,124,4.14,6.87,
+2010,Brandon James,Florida,RB,67,186,8.75,29.75,,4.47,14,,,,,
+2010,Javarris James,Miami (FL),RB,73,215,,,,4.58,21,36,115,,,
+2010,Stafon Johnson,USC,RB,70.88,214,8.75,30.38,,4.62,13,35.5,118,,,
+2010,Darius Marshall,Marshall (WV),RB,69.25,190,9,30.75,,4.59,14,35.5,109,4.39,,
+2010,Ryan Mathews,Frenso State (CA),RB,71.63,218,,,16,4.37,19,36,121,4.33,7,
+2010,Joe McKnight,USC,RB,71.38,198,,,,4.4,18,36.5,120,,,
+2010,Shawnbrey McNeal,SMU,RB,69.13,194,9.38,30.5,,4.53,14,36,117,,,
+2010,Lonyae Miller,Frenso State (CA),RB,71.5,221,8.88,30.75,,4.43,26,36.5,120,4.54,7.2,
+2010,Pat Paschall,North Dakota State,RB,71.63,209,9.25,32.63,25,4.65,15,38.5,118,4.33,7.02,11.39
+2010,Charles Scott,LSU,RB,71.38,238,9.5,33,26,4.68,,30.5,111,4.47,6.98,
+2010,C.J. Spiller,Clemson,RB,70.63,196,,,10,4.27,18,,,,,
+2010,James Starks,Buffalo,RB,74.13,218,,,,4.5,15,36,119,4.23,6.89,
+2010,Ben Tate,Auburn,RB,71,220,9,31.25,,4.34,26,40.5,124,4.12,6.91,
+2010,Keith Toston,Oklahoma State,RB,71.75,213,9.25,32.75,,4.66,22,32,110,4.67,,
+2009,Kahlil Bell,UCLA,RB,70.75,212,,,,4.74,15,34.5,114,4.2,6.87,
+2009,Andre Brown,North Carolina State,RB,72.13,224,,,,4.37,24,37,115,4.33,7.35,
+2009,Donald Brown,Connecticut,RB,70.25,210,,,,4.46,,41.5,125,4.1,6.93,11.3
+2009,Glen Coffee,Alabama,RB,72.13,209,,,,4.5,24,36,121,4.51,7.35,
+2009,James Davis,Clemson,RB,71,218,,,,4.55,17,32,109,4.37,7.15,
+2009,Arian Foster,Tennessee,RB,72.75,226,,,,4.68,23,,,,,
+2009,Mike Goodson,Texas A&M,RB,71.88,208,,,,4.46,14,39.5,118,4.22,6.89,
+2009,Shonn Greene,Iowa,RB,70.5,227,,,,4.62,19,37,121,4.4,7.1,
+2009,Rashad Jennings,Liberty (VA),RB,73,231,,,,4.59,29,34,120,4.2,6.86,11.46
+2009,Gartrell Johnson,Colorado State,RB,70.25,219,,,,4.75,20,34,114,,,
+2009,Ian Johnson,Boise State,RB,71.25,212,,,,4.41,26,33,116,4.18,6.93,11.63
+2009,Jeremiah Johnson,Oregon,RB,68.88,209,,,,4.62,20,35,115,,,
+2009,Anthony Kimble,Stanford,RB,72.25,216,,,,4.6,17,36,122,4.4,7.08,
+2009,Marlon Lucky,Nebraska,RB,71.38,216,,,,4.5,18,33.5,114,,7.1,
+2009,Knowshon Moreno,Georgia,RB,70.63,217,,,,4.5,25,35.5,115,4.27,6.84,
+2009,Chris Ogbonnaya,Texas,RB,71.75,220,,,,4.57,19,35,111,4.29,6.85,
+2009,Branden Ore,West Liberty (WV),RB,70.88,214,,,,4.61,21,36,112,4.44,7.35,
+2009,Cedric Peerman,Virginia,RB,69.5,216,,,,4.34,27,40,117,4.29,6.99,
+2009,Javon Ringer,Michigan State,RB,69.13,205,,,,4.55,23,34,115,4.11,6.87,
+2009,Bernard Scott,Abilene Christian (TX),RB,70.25,200,,,,4.44,21,36,125,4.08,6.82,
+2009,Kory Sheets,Purdue,RB,71.13,208,,,,4.39,15,37,121,4.39,7.18,11.7
+2009,Tyrell Sutton,Northwestern,RB,68,211,,,,4.68,,33,114,4.32,6.94,
+2009,Chris Wells,Ohio State,RB,73,235,,,,4.52,25,33.5,128,,,
+2009,Javarris Williams,Tennessee State,RB,70,223,,,,4.51,25,33.5,116,,,
+2008,Anthony Alridge,Houston,RB,69,170,9,30.38,,4.41,,30.5,134,,6.88,
+2008,Yvenson Bernard,Oregon State,RB,68.38,204,9.75,29.25,,4.87,,29.5,112,4.73,7.22,12.18
+2008,Cory Boyd,South Carolina,RB,72.5,213,9.38,31.5,,4.56,25,33.5,118,4.24,6.97,12.08
+2008,Thomas Brown,Georgia,RB,68.38,204,10,31,,4.56,25,36,128,,7.17,
+2008,Jamaal Charles,Texas,RB,71,200,8.75,32.13,,4.41,,30.5,122,4.22,6.8,
+2008,Tashard Choice,Georgia Tech,RB,70.5,215,9.25,30.75,,4.5,20,34,119,,6.88,
+2008,Matt Forte',Tulane (LA),RB,74,217,,,,4.44,23,33,118,4.23,6.84,
+2008,BenJarvus Green-Ellis,Mississippi,RB,70.63,219,9,30.38,,4.66,24,30.5,114,,,
+2008,Mike Hart,Michigan,RB,68.88,206,9.13,29.5,,4.77,23,28,110,,,
+2008,Chris Johnson,East Carolina (NC),RB,71,197,8.5,30.75,10,4.3,,35,130,,,
+2008,Felix Jones,Arkansas,RB,70.13,207,8.38,32.38,,4.5,,33.5,124,4.19,6.9,
+2008,Kregg Lumpkin,Georgia,RB,71.5,226,9.13,31.38,,4.73,22,28,111,,,
+2008,Darren McFadden,Arkansas,RB,73.25,211,9.5,34.25,,4.38,,33,128,,,
+2008,Kalvin McRae,Ohio,RB,69.13,203,9.75,30.88,,4.76,,25.5,109,,,
+2008,Rashard Mendenhall,Illinois,RB,70.13,225,10.88,31.38,,4.45,26,33.5,117,4.18,,
+2008,Xavier Omon,Northwest Missouri State,RB,70.75,228,9.38,31.75,,4.62,17,31,112,,,
+2008,Jalen Parmele,Toledo,RB,71.5,224,8.88,32.25,,4.55,19,34,125,4.29,6.96,
+2008,Ray Rice,Rutgers,RB,68,199,9.25,30.25,,4.46,23,31.5,119,4.2,6.65,
+2008,Dantrell Savage,Oklahoma State,RB,68.25,187,8.13,31,,4.6,13,32.5,117,,,
+2008,Chad Simpson,Morgan State (MD),RB,68.63,216,9.25,30.5,,4.43,,32.5,124,,,
+2008,Steve Slaton,West Virginia,RB,69.13,197,8.75,32.25,,4.49,19,33.5,118,,,
+2008,Kevin Smith,Central Florida,RB,73.13,217,9.75,32.25,,4.56,,32,120,4.49,6.74,
+2008,Jonathan Stewart,Oregon,RB,70.25,235,9.13,31.5,,4.48,28,36.5,128,4.53,7.44,
+2008,Marcus Thomas,Texas-El Paso,RB,72.25,213,8.38,32.63,,4.62,21,30,116,,,
+2008,Ryan Torain,Arizona State,RB,72.38,222,10,32.75,,4.68,21,34,120,,,
+2007,Lorenzo Booker,Florida State,RB,70.38,191,9,31.75,,4.5,26,35.5,121,,,
+2007,Ahmad Bradshaw,Marshall (WV),RB,69.5,198,8.5,31.5,,4.61,,34,112,4.09,6.7,
+2007,Eldra Buckley,Tennessee-Chattanooga,RB,69.5,202,9,30.38,,4.61,14,35.5,120,4.43,7.71,12.2
+2007,Thomas Clayton,Kansas State,RB,70.25,218,9.75,32.38,,4.66,23,36.5,121,,,
+2007,Alonzo Coleman,Hampton (VA),RB,69.88,207,10,30.5,,4.5,27,,120,,,
+2007,Jon Cornish,Kansas,RB,71.5,206,9.75,33,,4.65,,34,118,,7.09,
+2007,Kenneth Darby,Alabama,RB,70.38,211,9,30.5,,4.76,19,30,108,4.53,7.25,12.07
+2007,Chris Henry,Arizona,RB,71.25,230,10.25,31.25,,4.41,26,36,127,4.14,6.96,11.51
+2007,Nate Ilaoa,Hawaii,RB,68.88,245,9.13,29.63,,4.79,25,30,103,4.42,7.1,11.78
+2007,Kenny Irons,Auburn,RB,70.63,203,9.38,32.38,,4.5,11,29.5,111,4.17,7.18,11.67
+2007,Brandon Jackson,Nebraska,RB,69.88,210,10.13,31.38,,4.56,21,37,122,4.14,7,11.86
+2007,Brian Leonard,Rutgers,RB,73.5,226,9.13,31,,4.54,28,34.5,122,4.22,6.88,11.59
+2007,Marshawn Lynch,California,RB,71.13,215,9.25,31.13,,4.48,20,35.5,125,4.55,7.05,11.8
+2007,Tyrone Moss,Miami (FL),RB,69.13,231,9.5,31.13,,4.8,16,31,107,4.56,,
+2007,Adrian Peterson,Oklahoma,RB,73.5,217,9.25,33.75,16,4.41,,38.5,127,4.4,7.09,
+2007,Antonio Pittman,Ohio State,RB,70.75,207,8.5,31.5,,4.42,16,35.5,123,4.16,6.84,
+2007,Gary Russell,Minnesota,RB,70.38,229,9,31.5,,4.84,9,31.5,113,4.54,,
+2007,Kolby Smith,Louisville,RB,71.25,220,9.63,33.75,,4.52,18,38,114,4.34,7.22,12.08
+2007,Ramonce Taylor,Texas College,RB,70.13,195,,,,4.5,,34,125,4.23,6.98,
+2007,Darius Walker,Notre Dame,RB,70,206,9.63,31.75,,4.56,19,40.5,123,4.39,7.18,
+2007,Garrett Wolfe,Northern Illinois,RB,67.5,186,9.13,30.13,,4.4,22,35.5,116,4.08,6.69,
+2007,Dwayne Wright,Frenso State (CA),RB,71.5,228,9.5,31.25,,4.69,14,34,115,4.43,7.23,
+2007,DeShawn Wynn,Florida,RB,70.38,232,8.75,30.5,,4.49,,31.5,115,,,
+2006,Joseph Addai,LSU,RB,71.25,214,9.5,31.38,,4.43,18,37,125,4.47,7.09,
+2006,Mike Bell,Arizona,RB,72.25,221,9.25,30,,4.62,19,31.5,112,4.21,7.16,11.48
+2006,Brian Calhoun,Wisconsin,RB,69.25,201,9,29.13,,4.6,18,31.5,124,4.2,7.05,
+2006,P.J. Daniels,Georgia Tech,RB,70.13,214,9,30.5,,4.66,21,33,116,4.4,7.13,11.76
+2006,Maurice Drew,UCLA,RB,66.8,207,8.25,28.13,,4.44,18,36,116,4.38,7.08,11.39
+2006,Quinton Ganther,Utah,RB,69.5,218,8.63,28.38,,4.56,29,35,119,,7.19,
+2006,Marques Hagans,Virginia,RB,69.38,202,9.25,30,,4.64,,35,114,4.38,7.03,
+2006,Andre Hall,South Florida,RB,68.5,208,9.88,29.5,,4.45,18,33,113,,7.38,
+2006,Jerome Harrison,Washington State,RB,69.25,201,9.25,30,,4.49,19,34.5,124,4.07,6.77,
+2006,Taurean Henderson,Texas Tech,RB,69.5,204,9.25,31.5,,4.68,,32.5,112,4.4,7.01,11.94
+2006,Cedric Humes,Virginia Tech,RB,72.88,227,9.88,31.75,,4.68,18,30.5,106,4.22,7.07,
+2006,Wali Lundy,Virginia,RB,71,214,9.5,31.5,,4.52,18,35,111,4.36,6.99,11.27
+2006,Wendell Mathis,Frenso State (CA),RB,71.38,210,9.25,31,,4.54,20,33,117,4.22,6.93,11.27
+2006,DonTrell Moore,New Mexico,RB,69.75,210,9.38,30.5,,4.65,18,32,116,4.32,7.1,12.07
+2006,Jerious Norwood,Mississippi State,RB,71.63,210,9.88,31.25,,4.4,15,36.5,122,4.25,6.81,11.52
+2006,Cory Ross,Nebraska,RB,66.25,201,9,29.38,,4.59,15,,,,,
+2006,Derrick Ross,Tarleton State (TX),RB,70.5,226,9.13,30.25,,4.61,20,35,112,4.35,7,11.59
+2006,Leon Washington,Florida State,RB,67.88,201,9,29,,4.49,17,32.5,105,4.37,6.94,11.62
+2006,Terrence Whitehead,Oregon,RB,70.13,209,10,29,,4.73,,30.5,108,4.27,7.21,11.86
+2006,DeAngelo Williams,Memphis,RB,69,214,9.38,30.5,,4.49,25,35.5,121,,,
+2005,J.J. Arrington,California,RB,68.88,214,8.75,30.5,,4.45,18,35,116,4.1,6.81,11.07
+2005,Marion Barber,Minnesota,RB,71.38,221,8.88,31.5,,4.53,20,40,122,,,
+2005,DeCori Birmingham,Arkansas,RB,69.75,210,9,30.38,,4.59,14,34.5,115,4.28,7.13,11.75
+2005,Nehemiah Broughton,Citadel (SC),RB,71.5,250,9.75,32.38,,4.61,25,30,108,4.28,7.54,11.91
+2005,Ronnie Brown,Auburn,RB,72.25,233,9.63,31.63,,4.46,18,34,117,4.08,7.1,
+2005,Maurice Clarett,Ohio State,RB,71.63,234,9.5,30.75,,4.84,22,34,113,,,
+2005,DeAndra Cobb,Michigan State,RB,69.8,196,8.88,31.25,,4.53,17,34,118,4.25,7.13,11.72
+2005,Anthony Davis,Wisconsin,RB,66.6,200,8.63,29.75,,4.53,18,38,119,,7.39,
+2005,Lionel Gates,Louisville,RB,71.6,222,10.13,31.13,,4.72,23,36,118,4.1,7.17,
+2005,Ryan Grant,Notre Dame,RB,73.1,215,8.5,31.75,,4.5,17,33.5,115,4.12,7.08,10.65
+2005,Kay-Jay Harris,West Virginia,RB,72.4,241,10,31.63,,4.6,,38,119,4.1,7.2,11.65
+2005,Alex Haynes,Central Florida,RB,69.9,223,10.25,31.63,,4.54,21,32.5,,,,
+2005,Noah Herron,Northwestern,RB,71,224,9.13,31.75,,4.67,17,31,107,3.97,6.95,11.07
+2005,Ray Hudson,Alabama,RB,69.8,192,9.13,29.63,,4.5,15,,,,,
+2005,Brandon Jacobs,Southern Illinois,RB,76.3,267,10.63,33.63,,4.56,19,37,118,4.46,7.53,11.98
+2005,T.A. McLendon,North Carolina State,RB,70.3,235,8.63,31.88,,4.74,27,35,115,4.19,7.34,
+2005,Ryan Moats,Louisiana Tech,RB,68.3,210,8.88,31.5,,4.49,19,36,116,4.1,7.22,11.13
+2005,Vernand Morency,Oklahoma State,RB,69.6,212,8.88,31.75,,4.51,19,33.5,108,4.12,7.02,
+2005,Alvin Pearman,Virginia,RB,69.4,208,9.25,30.38,,4.65,24,34,112,4.08,7.06,11.11
+2005,Bobby Purify,Colorado,RB,73,212,,,,4.67,15,33.5,116,4.17,7.22,
+2005,Walter Reyes,Syracuse,RB,70,209,8.25,30.38,,4.52,16,32,108,4.38,7.23,11.7
+2005,Eric Shelton,Louisville,RB,73.5,246,9.5,33.63,,4.57,,38.5,122,4.08,7.46,
+2005,Darren Sproles,Kansas State,RB,66.1,187,8.25,28.25,,4.49,23,33,102,3.96,6.96,11.13
+2005,Carnell Williams,Auburn,RB,71,217,,,,4.43,19,35.5,118,4.17,6.95,
+2004,Rich Alexis,Washington,RB,72,210,9.25,32.5,,4.65,,32,114,4.43,7.41,12.1
+2004,Tatum Bell,Oklahoma State,RB,71,212,8.38,31.88,,4.39,25,38.5,117,,,
+2004,Ran Carthon,Florida,RB,71.4,224,9.63,29.5,,4.45,22,34.5,112,4.12,,
+2004,Cedric Cobbs,Arkansas,RB,72.1,223,9.38,31.63,,4.72,,40,123,,,
+2004,Duron Croson,Fort Valley State (GA),RB,72.8,226,10.13,30.88,,4.84,14,30.5,108,,,
+2004,Josh Davis,Nebraska,RB,70.4,200,9.13,30.63,,4.53,13,33.5,112,4.07,7.27,11.16
+2004,Joe Echemandu,California,RB,70.8,226,9.38,30.88,,4.58,15,,,,,
+2004,Clarence Farmer,Arizona,RB,71.9,231,8.75,31.5,,4.69,21,34.5,120,4.25,7.44,11.96
+2004,Julius Jones,Notre Dame,RB,69.8,217,9.25,31.13,,4.46,,37.5,121,4.12,6.97,
+2004,Kevin Jones,Virginia Tech,RB,72.1,227,8.63,30.88,,4.38,,38,120,,,
+2004,Derrick Knight,Boston College,RB,68.8,209,8.75,29,,4.73,16,31.5,108,,,
+2004,Mewelde Moore,Tulane (LA),RB,70.6,209,9.88,30.13,,4.62,,35,118,4.12,7.05,11.52
+2004,Jarrett Payton,Miami (FL),RB,72.1,220,8.88,30.75,,4.61,,31,115,4.31,7.34,
+2004,Chris Perry,Michigan,RB,72,224,10.25,31.38,,4.55,19,,,,,
+2004,Fred Russell,Iowa,RB,67,195,8.25,28.88,,4.51,21,34,121,4.3,7.09,11.2
+2004,Michael Turner,Northern Illinois,RB,70.5,237,9.63,29.38,,4.49,22,31,114,4.15,7.5,
+2004,Shaud Williams,Alabama,RB,67.5,193,9,28.38,,4.71,15,34,114,4.15,7.01,11.4
+2004,Quincy Wilson,West Virginia,RB,69.4,225,9.38,29.63,,4.6,26,33.5,118,4.36,7.68,11.93
+2004,Renaldo Works,Oklahoma,RB,72,222,9.63,31.13,,4.72,21,30.5,115,4.09,7.25,11.54
+2004,Jason Wright,Northwestern,RB,70.4,210,9.25,30,,4.66,,30,111,4.12,7.35,11.78
+2003,Santonio Beard,Alabama,RB,71.6,222,9.25,31.25,,4.59,,31.5,119,,,
+2003,Kerry Carter,Stanford,RB,73.9,238,9.25,32,,4.67,20,36,118,4.34,7.28,11.28
+2003,Avon Cobourne,West Virginia,RB,67.5,205,9.38,29.38,,4.7,21,31.5,112,4.12,7.2,11.69
+2003,Domanick Davis,LSU,RB,69,213,9,30,,4.64,22,32.5,112,4.46,7.31,11.86
+2003,Dahrran Diedrick,Nebraska,RB,72.1,228,9.75,30,,4.65,19,37,117,4.42,7.3,12.1
+2003,Justin Fargas,USC,RB,72.9,219,9.75,31,,4.41,27,,137,,,
+2003,Ahmaad Galloway,Alabama,RB,71.8,223,9,30.75,,4.65,22,,,,,
+2003,Earnest Graham,Florida,RB,69.1,225,9.5,31,,4.5,22,,,,,
+2003,Quentin Griffin,Oklahoma,RB,67,195,9.25,30,,4.49,21,38,123,4.02,,10.94
+2003,Dwone Hicks,Middle Tennessee State,RB,69.6,222,9.5,30,,4.6,29,34,115,4.37,7.38,11.61
+2003,Larry Johnson,Penn State,RB,74.4,214,8.75,31.38,,4.55,19,,,,,
+2003,Nick Maddox,Florida State,RB,71,211,,,,4.65,18,33.5,115,4.5,7.33,
+2003,Sultan McCullough,USC,RB,71.4,202,8.38,30.88,,4.49,27,,,,,
+2003,Musa Smith,Georgia,RB,72.8,232,8,31.88,,4.45,,35.5,123,,,
+2003,Onterrio Smith,Oregon,RB,69.9,220,9.75,29.25,,4.48,19,,,,,
+2003,LaBrandon Toefield,LSU,RB,70.9,233,9.25,30,,4.6,19,,,,,
+2003,Derek Watson,South Carolina,RB,73,212,,,,4.63,15,34,114,4.2,7.35,
+2003,Derrick Watson,South Carolina,RB,73,212,,,,4.63,15,34,114,4.2,7.35,
+2002,Jonathan Adams,Arkansas State,RB,73,219,,,,4.58,15,36.5,120,4.31,6.97,
+2002,Brian Allen,Stanford,RB,69,209,,,,4.46,19,33,112,4.08,6.9,
+2002,Damien Anderson,Northwestern,RB,70.4,211,9.5,29,,4.6,27,33.5,112,4.02,6.93,11.37
+2002,Ladell Betts,Iowa,RB,70.5,220,9,30.5,,4.6,23,38,115,4.06,7.06,11.33
+2002,Joe Burns,Georgia,RB,69,213,,,,4.81,21,31,105,,,
+2002,Demontray Carter,Troy (AL),RB,70.1,194,7.25,31,,4.58,16,33,115,4.36,7.38,12.06
+2002,Rock Cartwright,Kansas State,RB,67.8,237,9,30.75,,4.48,30,35,113,4.25,7.18,11.79
+2002,Eric Crouch,Nebraska,RB,71.9,195,9.75,30.25,,4.49,,36,112,4.02,6.87,11.52
+2002,Tony Fisher,Notre Dame,RB,74,226,,,,4.66,21,41.5,126,4.13,7,
+2002,Delvon Flowers,Arizona State,RB,72,207,9.75,32,,4.64,15,35.5,115,,,
+2002,LittleJohn Flowers,Michigan State,RB,71.4,214,9.75,31.5,,4.75,19,34,109,4.08,7.09,11.82
+2002,DeShaun Foster,UCLA,RB,73,222,,,,4.57,20,35.5,119,4.16,6.82,
+2002,Lamar Gordon,North Dakota State,RB,72.6,214,9.5,31,,4.59,16,34,115,,,
+2002,William Green,Boston College,RB,72.3,221,7.75,31.5,,4.65,27,42,121,,,
+2002,Ennis Haywood,Iowa State,RB,70.1,218,9,31.13,,4.76,12,35,112,4.14,7.08,11.72
+2002,Leonard Henry,East Carolina (NC),RB,72.9,206,8.75,31.5,,4.61,26,35,105,4.29,7.11,12.22
+2002,Maurice Hicks,North Carolina A&T,RB,70,200,8.5,31.5,,4.64,19,,,,,
+2002,Dameon Hunter,Utah,RB,70.6,219,9.5,31.25,,4.66,,30.5,106,,,
+2002,Eric McCoo,Penn State,RB,70,214,8.25,31.5,,4.55,14,32.5,111,,,
+2002,Dicenzo Miller,Mississippi State,RB,70.1,215,8.75,30.5,,4.98,8,31,105,4.39,7.25,11.77
+2002,Dave Minnich,Washington State,RB,71,218,8.75,30.25,,4.72,12,33.5,114,,,
+2002,Maurice Morris,Oregon,RB,71.4,208,8.75,30.25,,4.51,23,36.5,117,,,
+2002,Larry Ned,San Diego State,RB,70.8,219,9,30.75,,4.62,15,34.5,119,,7.12,
+2002,Adrian Peterson,Georgia Southern,RB,70,214,9.75,31.75,,4.69,14,34,117,4.6,7.59,12.08
+2002,Tellis Redmon,Minnesota,RB,71,210,,,,4.61,20,32,113,4.14,7.08,
+2002,Josh Scobey,Kansas State,RB,71.4,218,9.25,31.25,,4.44,21,40.5,122,3.93,6.96,10.93
+2002,Travis Stephens,Tennessee,RB,68.1,194,8.75,29.75,,4.59,15,32,121,,,
+2002,Chester Taylor,Toledo,RB,70.8,213,9.75,30.13,,4.64,22,33,111,,,
+2002,Lew Thomas,Vanderbilt,RB,69.5,210,9.25,31,,4.59,17,36,113,4.21,6.87,11.52
+2002,Brian Westbrook,Villanova,RB,68.4,200,10.13,29.5,,4.59,26,37,118,,7.09,
+2002,Leveron Williams,Indiana,RB,75.1,224,8.5,33.25,,4.66,16,,,,,
+2002,Ricky Williams,Texas Tech,RB,67.3,190,9.13,28.5,,4.48,19,32.5,108,,,
+2001,David Allen,Kansas State,RB,68.8,194,8.25,31.5,,4.65,15,31,111,,,
+2001,Kevan Barlow,Pittsburgh,RB,73.1,235,9,32,,4.56,,32,,,,
+2001,Michael Bennett,Wisconsin,RB,69.3,207,8.5,31,,4.44,13,39.5,130,,,
+2001,Derrick Blaylock,Stephen F. Austin (TX),RB,69.9,194,8,29.5,,4.39,18,35.5,119,4.09,7.05,11.43
+2001,Correll Buckhalter,Nebraska,RB,73,226,,,,4.53,11,40,,4.06,7.08,
+2001,Derek Combs,Ohio State,RB,72.1,193,9.5,31.5,,4.45,8,35,120,4.07,6.96,10.97
+2001,Corey Crume,Eastern Kentucky,RB,71.3,225,9.5,31,,4.78,15,37,115,4.32,7.36,11.9
+2001,Travis Henry,Tennessee,RB,69.1,223,8,30,,4.61,23,35.5,,,,
+2001,Derek Homer,Kentucky,RB,68.4,194,9,30,,4.58,,32.5,113,4.3,7.24,11.65
+2001,James Jackson,Miami (FL),RB,70.4,210,9.5,31,,4.55,,35,,,,
+2001,Rudi Johnson,Auburn,RB,69.6,227,9,30.5,,4.57,24,37.5,119,4.22,7.32,11.84
+2001,Lamont Jordan,Maryland,RB,70.3,234,9.75,31,,4.57,24,37,,,,
+2001,Deuce McAllister,Mississippi,RB,73.1,222,9.13,31.5,,4.41,20,37.5,,,,
+2001,Travis Minor,Florida State,RB,70.1,197,8.5,31,,4.46,9,32,115,,,
+2001,Hodges Mitchell,Texas,RB,66.6,180,8,29.5,,4.53,15,32.5,,,,
+2001,Marcel Shipp,Massachusetts,RB,70.6,222,10,32,,4.75,18,32.5,115,,,
+2001,Anthony Thomas,Michigan,RB,73.6,229,10,32,,4.62,20,32.5,115,4.44,7.48,12.09
+2001,LaDainian Tomlinson,TCU,RB,70.3,221,9,31,,4.43,18,40.5,124,4.21,6.84,11.19
+2001,Deonce Whitaker,San Jose State,RB,66,177,,,,4.52,23,36,,,,
+2001,Reggie White,Oklahoma State,RB,71.6,228,8,32,,4.59,17,37.5,114,4.4,7.48,11.87
+2000,Demario Brown,Utah State,RB,72.4,217,9.13,31.25,,4.74,,31,107,4.39,7.17,11.79
+2000,Keith Brown,UCLA,RB,71.1,216,10,31,,4.68,,30,117,4.08,6.64,11.21
+2000,Trung Canidate,Arizona,RB,70.6,193,8.13,29.75,,4.46,18,,,,,
+2000,Doug Chapman,Marshall (WV),RB,70,215,9.5,30,,4.59,16,38.5,128,4.2,6.84,11.36
+2000,Chrys Chukwuma,Arkansas,RB,73,232,,,,4.56,,,115,,,
+2000,Reuben Droughns,Oregon,RB,71.3,215,9,31.25,,4.68,13,30,115,4.41,7.34,12.38
+2000,Derrick Foster,Texas A&M-Kingsville,RB,71.4,201,9.75,31.75,,4.45,19,34.5,117,4.36,6.84,11.36
+2000,Dante' Hall,Texas A&M,RB,67.8,191,8.88,29.5,,4.46,18,38,123,3.82,6.62,10.72
+2000,Troy Hambrick,Savannah State (GA),RB,72.1,237,9.25,32.38,,4.72,21,34.5,118,4.44,7.48,11.69
+2000,Thomas Hamner,Minnesota,RB,72.1,197,10.25,31.25,,4.54,17,32,125,4.07,6.97,11.39
+2000,Marlion Jackson,Saginaw Valley State (MI),RB,73,242,10,32,,4.65,24,35.5,125,4.14,7.15,11.38
+2000,Ronney Jenkins,Northern Arizona,RB,70.5,184,8.88,30,,4.51,18,,118,,,
+2000,Morgan Kane,Wake Forest,RB,72.8,221,10,31,,4.63,29,37.5,121,4.16,6.81,11.38
+2000,Curtis Keaton,James Madison (VA),RB,70,214,,,,4.41,23,41.5,131,3.93,6.82,
+2000,Jamal Lewis,Tennessee,RB,71.8,240,10.25,32,,4.58,23,,,,,
+2000,Kevin McDougal,Colorado State,RB,71.4,206,8.88,29.5,,4.66,,32,108,4.12,7.08,11.41
+2000,Rondell Mealey,LSU,RB,71.6,212,9.25,32.25,,4.69,,33,120,4.15,6.89,11.34
+2000,Frank Moreau,Louisville,RB,73,231,,,,4.57,23,36,117,,,
+2000,Chad Morton,USC,RB,67.6,182,8.5,30,,4.52,18,36,121,,,
+2000,Travis Prentice,Miami (OH),RB,71.8,225,9.5,31.5,,4.5,23,37,115,4.4,6.92,11.72
+2000,J.R. Redmond,Arizona State,RB,71.5,216,9.13,31.25,,4.48,,32.5,121,,,
+2000,Phillip Rogers,Georgia Tech,RB,73.1,232,9.88,32,,4.73,19,37,124,4.31,7.21,12.17
+2000,Ketric Sanford,Houston,RB,67.5,199,9,31.5,,4.62,12,32,118,4.3,6.63,11.49
+2000,Rashon Spikes,North Carolina State,RB,70.5,204,9.13,31,,4.84,13,33,113,4.47,7.18,11.94
+2000,Shyrone Stith,Virginia Tech,RB,67.4,204,9.63,30.25,,4.65,13,35,111,4.14,7.14,11.2
+2000,Anthony White,Kentucky,RB,72.3,195,9.5,31.75,,4.7,,32.5,118,4.24,7.05,11.46
+2000,Destry Wright,Jackson State (MS),RB,71.3,216,9.75,30.75,,4.88,15,29.5,112,4.41,7.15,11.87
+1999,Jerry Azumah,New Hampshire,RB,70,195,8.88,29.88,,4.5,15,43.5,129,3.86,6.9,11.13
+1999,Marlon Barnes,Colorado,RB,70,211,,,,4.49,18,35.5,120,4.32,7.31,
+1999,Michael Basnight,North Carolina A&T,RB,72.9,241,9,32.88,,4.61,18,34.2,117,4.42,7.34,11.92
+1999,Ronnie Bradley,Georgia,RB,69,221,,,,4.57,,36,115,4.1,7.18,
+1999,Mike Cloud,Boston College,RB,70.5,200,9.5,29.75,,4.54,17,38.5,115,4.16,6.8,11.1
+1999,Cecil Collins,McNeese State (LA),RB,68.6,209,9.38,29.88,,4.45,16,33,115,,7.21,
+1999,Autry Denson,Notre Dame,RB,69.5,197,9.38,29.25,,4.67,20,31,115,4.15,6.97,11.43
+1999,Kevin Faulk,LSU,RB,67.6,205,9.13,29.75,,4.57,,34,114,4.09,7.14,
+1999,Olandis Gary,Georgia,RB,73,216,,,,4.71,22,34,116,4.13,7.15,
+1999,Anthony Gray,Western New Mexico,RB,72.1,228,10,32.5,,4.65,16,32.5,112,4.23,7.1,11.51
+1999,Madre Hill,Arkansas,RB,71.4,199,9,30.38,,4.52,20,32,109,4.31,6.9,11.42
+1999,Jay Hinton,Morgan State (MD),RB,71,200,,,,4.29,18,43.5,134,3.86,6.86,
+1999,John Humphrey,Texas A&M-Kingsville,RB,69,195,9.25,29.13,,4.54,19,35.5,122,,,
+1999,Sedrick Irvin,Michigan State,RB,70.8,223,9.88,29.5,,4.58,20,35,117,,,
+1999,Edgerrin James,Miami (FL),RB,72,216,8.88,30,,4.38,,,,3.88,6.87,
+1999,J.J. Johnson,Mississippi State,RB,73.4,227,9.13,31,,4.71,16,,,4.19,7.3,
+1999,Corby Jones,Missouri,RB,71.1,223,9.88,31.25,,4.71,15,31.5,111,4.18,7.14,11.77
+1999,Jaime Kimbrough,Frenso State (CA),RB,67.5,198,9.13,28,,4.71,22,34.5,112,4.32,7.4,11.73
+1999,Joe Montgomery,Ohio State,RB,70.4,227,9.25,30.5,,4.63,,,,4.22,7.1,
+1999,De'Mond Parker,Oklahoma,RB,69.6,189,8.75,31.13,,4.49,13,41.5,119,4.16,7.28,11.63
+1999,Sirr Parker,Texas A&M,RB,70.3,190,8.38,29.25,,4.56,,40,121,4.09,6.84,11.45
+1999,Ronnie Powell,Northwestern State (LA),RB,70,174,,,,4.43,,35.5,116,4.14,7.09,
+1999,Thomas Seih,Texas Southern,RB,69,212,,,,4.57,16,35,116,4.31,7.28,
+1999,Brian Shay,Emporia State (KS),RB,68,213,9.13,28.38,,4.49,17,,,4.22,7.31,
+1999,Aaron Stecker,Western Illinois,RB,69.5,210,9.5,29.25,,4.82,23,32.5,112,4.17,7,
+1999,Damon Washington,Colorado State,RB,70.6,200,10,31.13,,4.54,18,37,114,4.07,7.28,11.93
+1999,Devin West,Missouri,RB,72.3,229,9.75,31.5,,4.53,14,33.5,114,4.04,7.12,
+1999,Clarence Williams,Michigan,RB,68.5,202,8.88,30.5,,4.71,19,33.5,105,4.15,6.98,11.49
+1999,Ricky Williams,Texas,RB,70.8,244,7.75,29.5,,4.56,,37,124,,,
+1999,Amos Zereoue,West Virginia,RB,67.4,203,9,29.75,,4.53,,,,4.09,,
+1998,Curtis Alexander,Alabama,RB,71.6,204,9.25,31.25,,4.44,13,37,117,,7.46,
+1998,John Avery,Mississippi,RB,69.4,184,9.13,30.5,,4.38,17,34.5,121,4.16,7.35,11.09
+1998,Tavian Banks,Iowa,RB,69.6,198,9.63,31.88,,4.48,15,39,125,3.95,7.34,11.06
+1998,Michael Black,Washington State,RB,70.8,196,8.88,31.75,,,17,,,,,
+1998,Robert Edwards,Georgia,RB,71.5,218,8.75,31.5,,,,,,,,
+1998,Curtis Enis,Penn State,RB,72.6,242,10,32.13,,,,,,,,
+1998,Chris Fuamatu-Ma'Afala,Utah,RB,71.6,252,10.13,31.25,,4.83,23,33,111,4.25,7.52,11.88
+1998,Ahman Green,Nebraska,RB,71.8,213,9.5,31.25,,4.44,13,38.5,129,,,
+1998,Scott Harley,East Carolina (NC),RB,69.4,215,9.75,31.13,,4.79,18,31.5,108,4.25,7.46,11.78
+1998,Lendon Henry,Colorado,RB,72,213,9.75,33.25,,,15,36,119,,,
+1998,Skip Hicks,UCLA,RB,71.8,230,10.13,32.75,,,17,34.5,124,,,
+1998,Robert Holcombe,Illinois,RB,70.9,216,9.88,32.25,,4.53,23,35,126,4.15,7.49,11.59
+1998,Chris Howard,Michigan,RB,69.6,223,9.5,30.5,,4.65,19,27,115,4.23,7.49,11.65
+1998,Juan Johnson,Utah,RB,73.1,220,9.63,33.5,,4.69,14,34.5,123,4.32,7.74,12.19
+1998,Michael Martin,Arizona State,RB,72.4,215,9.25,32.75,,,17,,,,,
+1998,Claude Mathis,Texas State,RB,69.5,206,8.75,32.5,,4.61,17,30,110,4.2,7.61,11.95
+1998,Saladin Mccullough,Oregon,RB,68.4,196,8.88,30,,,,,,,,
+1998,Brian Mckenzie,Brigham Young,RB,69.8,210,9.25,32,,4.43,20,36.5,127,4.29,8.18,11.53
+1998,Brock Olivo,Missouri,RB,72.1,217,10.5,31.13,,4.82,24,30.5,109,4,7.46,11.55
+1998,Ken Oxendine,Virginia Tech,RB,72.3,228,10.5,32.88,,4.75,19,35,119,3.98,7.88,11.64
+1998,Marcus Parker,Virginia Tech,RB,69.1,244,9.75,31.88,,4.69,18,36,111,4.36,7.97,12.13
+1998,Pepe Pearson,Ohio State,RB,70.4,206,9,30.25,,4.54,15,34.5,112,4.36,7.3,11.08
+1998,Wilmont Perry,Livingstone (NC),RB,73.6,235,10.13,33.88,,4.74,16,33,108,4.56,7.75,12.22
+1998,Michael Pittman,Frenso State (CA),RB,71.5,214,9.5,29.88,,4.5,22,35,120,4.37,7.54,11.74
+1998,Rock Preston,Florida State,RB,67.9,183,9,30.13,,4.62,9,33.5,118,4.17,7.54,11.53
+1998,Andre Richardson,Oklahoma State,RB,67.1,184,9.13,28.63,,4.53,18,33,115,4.33,7.4,11.91
+1998,Dennis Riddle,Alabama,RB,70.1,205,10,33.13,,4.66,,33.5,121,4.17,7.7,11.51
+1998,Harold Shaw,Southern Miss,RB,72,230,9,31.75,,4.62,18,28.5,105,4.43,7.63,11.97
+1998,Rashaan Shehee,Washington,RB,70.3,204,9.88,33.13,,,22,,,,,
+1998,Tarik Smith,California,RB,70.4,200,9.75,32.75,,4.53,17,39.5,129,,,
+1998,Tremayne Stephens,North Carolina State,RB,70.8,205,10,32.88,,4.54,14,40,121,4,7.19,10.95
+1998,Fred Taylor,Florida,RB,71.9,226,9.63,32.5,,,20,,,,,
+1998,Delon Washington,USC,RB,68.1,194,9,31.5,,4.69,16,31,109,4.34,7.71,12.08
+1997,James Allen,Oklahoma,RB,70.1,212,9,31.88,,,11,31,,,,
+1997,Darnell Autry,Northwestern,RB,70.8,210,10,32.38,,,,34,114,,,
+1997,Tiki Barber,Virginia,RB,69.4,203,9.5,31.75,,4.56,15,35.5,120,4,7.18,11.19
+1997,Terry Battle,Arizona State,RB,70.6,197,9.38,31.88,,4.71,16,34.5,118,,,
+1997,Calvin Branch,Colorado State,RB,71.4,200,9.63,33,,4.49,18,39,127,4.08,7.12,11.23
+1997,Kenney Bynum,South Carolina State,RB,70.8,190,9,31.5,,4.53,11,35.5,124,4.13,7.47,11.43
+1997,Troy Davis,Iowa State,RB,67.9,181,8.88,30.5,,4.56,16,34.5,118,4.27,7.35,11.56
+1997,Corey Dillon,Washington,RB,72.6,217,10.25,34,,,,,,,,
+1997,Warrick Dunn,Florida State,RB,68,176,8.5,30.75,,,,,,,,
+1997,Robert Farmer,Notre Dame,RB,70.6,213,10,32.63,,,,,,,,
+1997,Danyell Ferguson,Miami (FL),RB,71.1,202,9.5,32,,,,,,,,
+1997,Spencer George,Rice (TX),RB,69,198,9.88,31.88,,4.54,22,41.5,127,4.03,7.28,11
+1997,Jay Graham,Tennessee,RB,71.6,215,9.75,32,,4.46,22,36,117,4.05,7.28,11.5
+1997,Byron Hanspard,Texas Tech,RB,70.5,198,8.88,31,,4.41,,,,,,
+1997,June Henley,Kansas,RB,70.9,234,9.5,31.88,,,,,,,,
+1997,Priest Holmes,Texas,RB,68.9,213,9,30.63,,4.73,18,33,115,4.14,7.4,11.38
+1997,Leon Johnson,North Carolina,RB,71.8,209,9.5,32.5,,4.68,,34,118,4.31,7.82,12.18
+1997,George Jones,San Diego State,RB,68.6,204,9.25,30.5,,4.58,,35,115,4.38,7.82,
+1997,Randy Kinder,Notre Dame,RB,72.9,207,10.38,33.25,,4.46,,31,120,4.17,7.4,11.06
+1997,Brian Knuckles,Western Illinois,RB,70.3,206,9.5,32.25,,4.65,3,34,113,4.3,7.64,11.65
+1997,Fred Lane,Lane College (TN),RB,69.6,209,8.63,31.13,,4.75,19,31,116,4.18,7.39,11.5
+1997,Chad Levitt,Cornell (NY),RB,73.1,233,9.13,31.5,,4.61,19,34.5,122,4.19,7.41,11.46
+1997,Shon Mitchell,Texas,RB,70.4,194,9.63,32.25,,4.62,,31,120,4.17,7.56,11.7
+1997,Beau Morgan,Air Force,RB,70.1,192,9.13,29.75,,4.61,,36.5,125,3.97,7.16,11.21
+1997,Ray Nealy,Arkansas-Pine Bluff,RB,71.5,219,8.5,31.88,,4.61,9,34.5,114,4.48,7.6,12.11
+1997,Sedrick Shaw,Iowa,RB,72,214,9.25,33,,4.62,,32,112,4.39,7.76,12.12
+1997,Alex Smith,Indiana,RB,71.4,208,9.25,31.88,,4.62,16,32,111,4.16,7.25,11.66
+1997,Antowain Smith,Houston,RB,74.4,224,8.5,32.5,,4.48,15,36.5,117,,,
+1997,Duce Staley,South Carolina,RB,71.1,220,8.88,31,,,,,,,,
+1997,David Thompson,Oklahoma State,RB,68.3,194,9.63,30.75,,4.69,14,34.5,124,4.24,7.39,11.41
+1997,Corey Walker,Arizona State,RB,69.5,188,9.25,30.63,,4.46,16,35.5,121,4.23,7.12,11.35
+1997,Shawn Walters,USC,RB,70.9,251,9.5,31.63,,4.87,19,,,,,
+1997,Cj Williams,Georgia Tech,RB,72.1,205,9.5,33,,4.61,13,39,124,4.35,7.48,11.62
+1997,Abu Wilson,Utah State,RB,72.4,214,9.75,32.38,,4.73,15,31.5,117,4.5,7.75,12.53
+1996,Karim Abdul-Jabbar,UCLA,RB,70,194,9.75,31.13,,,,32.5,115,4.29,,11.54
+1996,Joe Abdullah,Pacific (CA),RB,70.8,217,9.63,31.25,,4.81,14,32,116,4.54,,12.5
+1996,Mike Archie,Penn State,RB,68,206,10.13,31.5,,,,,,,,
+1996,Tim Biakabutuka,Michigan,RB,72.1,205,9,31.88,,,,,,,,
+1996,Chris Darkins,Minnesota,RB,72,211,9.38,33.5,,4.43,22,38.5,128,3.91,,11.31
+1996,Tommie Frazier,Nebraska,RB,72.3,210,10.63,33,,4.75,,30.5,117,4.2,,
+1996,Jimmy Gary,West Virginia,RB,70.5,218,9.25,31,,4.68,17,32.5,106,4.22,,12.04
+1996,Eddie George,Ohio State,RB,74.6,238,10.13,33.25,,,,,,,,
+1996,Michael Hicks,South Carolina State,RB,72.3,188,8.63,31,,4.59,18,32.5,122,4.26,,11.61
+1996,Richard Huntley,Winston-Salem State (NC),RB,71.5,224,10.13,31.5,,,,,,,,
+1996,Dou Innocent,Mississippi,RB,71.3,212,9.5,32.38,,,,,,,,
+1996,L T Levine,Kansas,RB,69.8,220,8.75,31.63,,,,,,,,
+1996,Leeland Mcelroy,Texas A&M,RB,68.6,198,9.25,32.25,,4.39,22,37,120,4.06,,11.07
+1996,Jerris Mcphail,East Carolina (NC),RB,70.6,201,8.63,31.88,,4.49,14,38.5,122,4.32,,11.44
+1996,Jerald Moore,Oklahoma,RB,68.9,229,9.75,29.13,,,24,,,,,
+1996,Jeff Nichols,Grambling State (LA),RB,72,209,8.75,32.13,,,,,,,,
+1996,Winslow Oliver,New Mexico,RB,67.3,181,9,29.25,,4.49,25,35,123,4.14,,11.22
+1996,Chris Parker,Marshall (WV),RB,70,199,9.88,31.63,,4.54,13,37,125,4.35,,11.57
+1996,Lawrence Phillips,Nebraska,RB,71.6,229,9,31.38,,,,,,,,
+1996,Bruce Presley,Rutgers,RB,69.8,218,9.5,30.63,,4.77,13,28.5,111,,,
+1996,Reynard Rutherford,California,RB,72.3,201,8.88,30.25,,,18,,,,,
+1996,Toraino Singleton,Texas-El Paso,RB,74.6,235,9.25,33.13,,,19,,,,,
+1996,Robert Walker,West Virginia,RB,70.8,205,9.38,31.38,,4.55,15,34,113,,,
+1996,Ricky Whittle,Oregon,RB,69,200,9.25,30.13,,,,,,,,
+1996,Moe Williams,Kentucky,RB,72.1,199,9.38,31.63,,4.76,13,37.5,122,4.27,,
+1996,Terrell Willis,Rutgers,RB,69.9,196,9.25,31.75,,4.61,11,34.5,122,4.41,,11.56
+1995,Kelvin Anderson,Southeast Missouri State,RB,67.6,198,10.13,29.38,,4.65,12,37,111,4.18,,11.5
+1995,Joe Aska,Central Oklahoma,RB,70.5,230,10.13,31.63,,4.43,14,34.5,120,4.31,,11.28
+1995,Robert Baldwin,Duke,RB,70.9,222,9.25,32,,4.75,17,31.5,108,4.6,,12.21
+1995,Lee Becton,Notre Dame,RB,71,195,9.38,31.13,,,,,,,,
+1995,Brandon Bennett,South Carolina,RB,70.8,201,9.38,31.75,,,,,,,,
+1995,Kevin Bouie,Mississippi State,RB,71.9,225,9,31.13,,4.73,17,30,113,4.41,,12.32
+1995,Norman Bradford,Grambling State (LA),RB,73.5,203,9.75,32,,4.75,,32,118,4.31,,11.62
+1995,Ki-Jana Carter,Penn State,RB,70,227,9.38,32,,,,,,,,
+1995,Ontiwaun Carter,Arizona,RB,68.6,183,8.5,30,,4.63,19,32,114,4.44,,11.4
+1995,Terrell Davis,Georgia,RB,71.6,213,9,30.88,,4.72,,35,120,4.41,,11.65
+1995,Terrell Fletcher,Wisconsin,RB,67.6,200,9.25,30,,,17,,,,,
+1995,Roger Graham,New Haven (CT),RB,69.9,213,9.88,30.38,,4.81,19,31,116,4.59,,12.43
+1995,Aaron Hayden,Tennessee,RB,71.6,218,9.13,30.5,,,23,,,,,
+1995,Darick Holmes,Portland State (OR),RB,72,226,10.13,31.38,,,,,,,,
+1995,Curtis Johnson,North Carolina,RB,68.6,204,9,30.13,,4.6,20,31.5,112,,,
+1995,Eric Johnson,Central Michigan,RB,70.5,200,8.63,30.88,,4.61,,30.5,113,4.03,,11.31
+1995,Napoleon Kaufman,Washington,RB,68.5,182,8.5,29.5,,4.48,24,38.5,,,,
+1995,Curtis Martin,Pittsburgh,RB,71.3,203,9.25,31.88,,,16,41.5,131,4.1,,11.72
+1995,Casey Mcbeth,Toledo,RB,69.9,206,8.75,30.88,,4.69,18,35.5,117,4.41,,11.56
+1995,Brent Moss,Wisconsin,RB,68.5,211,9.63,31.75,,4.74,19,29,108,4.35,,11.92
+1995,Bobby Phillips,Virginia Union,RB,68.9,195,9.63,30.88,,4.55,23,32.5,123,4,,11.05
+1995,Dino Philyaw,Oregon,RB,70.5,192,9.25,29.5,,4.57,18,36.5,115,4.25,,11.68
+1995,Brian Pruitt,Central Michigan,RB,68.9,207,9.13,31.63,,,15,37,,,,
+1995,Rashaan Salaam,Colorado,RB,72.9,228,9,32.13,,,21,,,,,
+1995,Anthony Shelman,Louisville,RB,74.9,209,9.25,33.75,,4.72,17,35.5,127,4.55,,12.92
+1995,J J Smith,Kansas State,RB,69.6,202,9.13,32,,,,33.5,,,,
+1995,James Stewart,Tennessee,RB,73.4,222,8.88,32.75,,,26,38,123,4.09,,
+1995,Rodney Thomas,Texas A&M,RB,70.3,213,9.13,31.88,,4.54,,33,116,,,
+1995,Tyrone Wheatley,Michigan,RB,72,232,9.13,32.88,,4.53,,35.5,122,4.27,,11.88
+1995,Sherman Williams,Alabama,RB,67.8,196,9.88,31.25,,,15,,,,,
+1995,Jamal Willis,Brigham Young,RB,74,218,10,33,,4.61,18,34,122,4.31,,11.9
+1995,Julius Young,Oregon State,RB,70,194,9.63,30.88,,4.58,,32.5,115,4.09,,11.31
+1994,Mario Bates,Arizona State,RB,72.6,217,9.5,33.25,,4.43,15,36,128,4.12,,11.33
+1994,William Bell,Georgia Tech,RB,70.1,208,9.38,30.88,,4.59,17,31,120,4.2,,11.43
+1994,James Bostic,Auburn,RB,71.1,222,9.63,32,,4.62,20,34.5,118,4.31,,11.56
+1994,Phil Brown,Texas,RB,70.3,210,9,31,,4.8,13,34,113,4.56,,12.19
+1994,Beno Bryant,Washington,RB,68.6,184,8.63,29.5,,4.55,19,33.5,118,4.15,,11.93
+1994,Lindsey Chapman,California,RB,68,197,9.25,30.25,,4.6,,38,120,4.43,,11.81
+1994,Marvin Courtney,Mississippi,RB,71.4,207,9,32.25,,4.68,8,32,119,4.5,,11.56
+1994,Gary Downs,North Carolina State,RB,71.9,212,9.38,31.25,,4.61,,33,116,4.28,,11.53
+1994,Keith Elias,Princeton,RB,69,191,9,28.75,,4.62,15,33.5,122,4.2,,11.16
+1994,Marshall Faulk,San Diego State,RB,70.1,206,9.13,31.75,,,,,,,,
+1994,Charlie Garner,Tennessee,RB,69.1,182,9.75,31.5,,,,,,,,
+1994,Raymont Harris,Ohio State,RB,72,225,9.25,32,,4.61,22,37,116,4.4,,11.59
+1994,Greg Hill,Texas A&M,RB,70.6,207,8.5,30.5,,4.5,14,33.5,115,3.97,,11.15
+1994,Sean Jackson,Florida State,RB,73.4,219,8.88,30.75,,4.69,,35.5,112,4.48,,11.94
+1994,Leshon Johnson,Northern Illinois,RB,70.9,206,8.5,31.63,,,,,,,,
+1994,Calvin Jones,Nebraska,RB,71.1,212,10,32.75,,4.58,,30.5,115,4.09,,11.28
+1994,Dorsey Levens,Georgia Tech,RB,72.9,228,10.63,32.88,,4.6,18,37.5,118,4.42,,11.62
+1994,Charles Levy,Arizona,RB,71.8,197,9,31.75,,4.52,,34.5,114,4.41,,11.56
+1994,Dwight Mcfadden,USC,RB,71.1,179,9,30.38,,4.6,11,30,108,,,
+1994,Mark Montgomery,Wisconsin,RB,71.9,220,8.63,32.25,,,24,,,,,
+1994,Bam Morris,Texas Tech,RB,72.5,241,9.25,30.75,,,15,,,,,
+1994,Errict Rhett,Florida,RB,70.8,211,10,30,,,28,32.5,113,,,
+1994,Terry Richardson,Syracuse,RB,72.6,210,9.13,31,,4.61,20,35,120,4.31,,11.95
+1994,Ron Rivers,Frenso State (CA),RB,67.9,203,9.5,27.88,,4.68,20,29.5,105,4.2,,12.11
+1994,Scott Schulte,Hillsdale (MI),RB,70.1,199,9,29.13,,4.52,20,31,115,4.06,,11.31
+1994,Irving Spikes,Louisiana-Monroe,RB,67.6,212,8.75,29,,4.69,17,30,112,4.28,,11.88
+1994,Glenn Starks,Central Oklahoma,RB,71.9,194,9,31.25,,4.65,16,33,115,4.52,,12.25
+1994,Craig Thomas,Michigan State,RB,70.6,198,9,31,,4.7,14,35.5,108,4.54,,12.34
+1994,Tony Vinson,Towson (MD),RB,73.4,229,8.75,31,,4.61,,32.5,,,,
+1994,Lamont Warren,Colorado,RB,71.8,194,9.25,32,,4.6,13,34,121,4.16,,11.19
+1993,Richie Anderson,Penn State,RB,73.8,220,9,32.25,,4.56,16,35.5,121,4.27,,11.6
+1993,Ryan Benjamin,Pacific (CA),RB,67.3,186,9.75,28.63,,4.72,19,,,,,
+1993,Reggie Brooks,Notre Dame,RB,67.5,209,8.13,30,,,18,,,,,
+1993,Derek Brown,Nebraska,RB,69,180,9.25,30.88,,4.63,13,38,127,3.91,,11.02
+1993,Trevor Cobb,Rice (TX),RB,68.9,194,9,29.75,,4.68,11,30,103,4.41,,11.8
+1993,Estrus Crayton,USC,RB,74,186,8.5,32.75,,4.81,8,29.5,111,4.2,,11.83
+1993,Randy Cuthbert,Duke,RB,74.4,223,9.25,31,,4.82,17,30,110,4.22,,11.73
+1993,Tico Duckett,Michigan State,RB,69.4,198,9.25,30.88,,,,,,,,
+1993,Chuckie Dukes,Boston College,RB,69.1,189,8.13,30.5,,4.66,14,31.5,111,3.97,,11.3
+1993,Walt Dunson,Middle Tennessee State,RB,67.9,170,8.13,31.25,,,5,,,,,
+1993,Eric Gallon,Kansas State,RB,71.6,199,9.63,32.5,,4.72,15,37.5,122,4.1,,11.74
+1993,Garrison Hearst,Georgia,RB,69,204,9.5,31.13,,,,,,,,
+1993,Vaughn Hebron,Virginia Tech,RB,68.5,194,9.38,30.63,,4.79,11,31.5,105,4.3,,11.56
+1993,Kerry Henderson,Texas Southern,RB,65.9,167,8.88,27.88,,4.49,18,34.5,118,4,,11.04
+1993,Randy Jordan,North Carolina,RB,70,208,8.25,30.38,,4.46,15,35,119,4.2,,
+1993,Terry Kirby,Virginia,RB,73.3,221,9.5,33,,4.64,18,38,120,4.14,,11.49
+1993,Derrick Lassic,Alabama,RB,69.6,192,9.13,29.63,,,10,,,,,
+1993,Stephen Mcguire,Miami (FL),RB,70.9,216,9,31.63,,4.89,13,30.5,108,4.63,,12.84
+1993,Natrone Means,North Carolina,RB,70.4,255,9.13,31.88,,,18,,,,,
+1993,Glyn Milburn,Stanford,RB,68.3,177,8.63,29.13,,,16,,,,,
+1993,Craig Mitter,Rutgers,RB,68.3,207,8.63,29.25,,4.76,22,,,,,
+1993,Ron Moore,Pittsburgh State (KS),RB,70.1,226,9.75,32.63,,4.67,13,35.5,116,4.5,,11.49
+1993,Adrian Murrell,West Virginia,RB,70.3,206,8.75,31.5,,4.59,12,33.5,117,4.17,,11.4
+1993,Martin Patton,Texas A&M-Kingsville,RB,71.9,195,9.13,31.63,,4.8,12,38,116,4.31,,12.09
+1993,Kenny Roberts,Mississippi State,RB,68,171,7.75,29.38,,4.55,,33.5,115,4.52,,11.93
+1993,Gregory Robinson,Louisiana-Monroe,RB,70.8,208,9.13,30.88,,4.68,6,33.5,111,4.33,,
+1993,Kenny Sims,James Madison (VA),RB,70.8,188,10.25,30.88,,4.67,12,34.5,117,4.22,,11.9
+1993,Robert Smith,Ohio State,RB,72.3,195,10.13,32.38,,4.47,16,39,134,4.03,,10.85
+1993,Markus Thomas,Eastern Kentucky,RB,70,194,8.88,32,,4.62,15,36.5,116,4.16,,11.43
+1993,Adrian Walker,Texas,RB,70.3,196,9.5,32.5,,,16,,,,,
+1993,David Walker,Syracuse,RB,68.9,216,8.5,30.25,,4.93,19,30,104,4.19,,11.66
+1993,Russell White,California,RB,70.6,216,8.63,32.25,,4.61,,36,113,4.28,,11.99
+1993,Kevin Williams,UCLA,RB,72.5,212,8.88,32.88,,4.44,17,41.5,137,4.11,,11.59
+1993,Shaumbe Wright-Fair,Washington State,RB,71.3,214,9.25,32,,4.8,19,33.5,125,4.49,,12.33
+1992,Tyrone Ashley,Mississippi,RB,72.8,198,8.5,31.5,,4.74,2,33.5,115,4.29,,11.95
+1992,Edgar Bennett,Florida State,RB,71.8,208,9.25,31.5,,4.75,,35.5,122,4.37,,11.96
+1992,Tony Brooks,Notre Dame,RB,72.4,230,9.5,33.25,,4.77,19,35,119,4.23,,11.89
+1992,Joe Campbell,Middle Tennessee State,RB,68.5,174,8.38,31,,4.77,11,37.5,120,4.56,,11.76
+1992,Vaughn Dunbar,Indiana,RB,69.6,204,9.38,31,,4.55,17,35,120,4.19,,11.2
+1992,Nikki Fisher,Virginia,RB,70.4,227,9,30.13,,4.66,15,32,115,4.26,,11.63
+1992,Leodis Flowers,Nebraska,RB,70.8,204,8.88,29.63,,4.71,12,34,121,4.2,,11.6
+1992,Derrick Franklin,Indiana State,RB,69.1,187,9.88,30.88,,4.65,15,31.5,116,4.18,,11.94
+1992,Mike Gaddis,Oklahoma,RB,72,217,8.38,33,,,,,,,,
+1992,Sam Gash,Penn State,RB,71.6,224,9.13,30.25,,4.79,16,33.5,113,4.16,,11.75
+1992,Darian Hagan,Colorado,RB,68.8,189,8.75,28.5,,,6,,,,,
+1992,Ronald Humphrey,Mississippi Valley State,RB,70.6,201,9.63,32,,4.56,19,36.5,127,3.96,,11.03
+1992,Amp Lee,Florida State,RB,71.1,200,9.38,30.38,,,,,,,,
+1992,Tim Lester,Eastern Kentucky,RB,69.6,213,10.5,30.63,,4.8,13,33,114,4.46,,11.67
+1992,Eric Lynch,Grand Valley State (MI),RB,70.5,222,8.63,32,,,21,32,109,4.2,,11.53
+1992,Keith Mcafee,Texas A&M,RB,71.9,220,8.38,32.88,,,9,,,,,
+1992,Willie Mcclendon,Florida,RB,71.9,214,8.75,30.88,,4.84,25,31.5,111,4.27,,12.03
+1992,Ostell Miles,Houston,RB,71.6,227,10.25,33,,4.73,26,38.5,122,4.33,,11.75
+1992,Troy Mills,Cal State Sacramento,RB,70.9,218,9.25,31.88,,4.72,13,30,108,4.35,,12.07
+1992,Derrick Moore,Northeastern Oklahoma A&M,RB,71.5,216,8.63,31.5,,4.62,20,,,,,
+1992,Mazio Royster,USC,RB,72.1,202,9.75,32.63,,4.77,10,32.5,113,4.1,,11.69
+1992,Mike Saunders,Iowa,RB,71,206,8.88,30.25,,4.83,10,31,109,4.2,,11.66
+1992,Randy Simmons,Texas A&M,RB,72.5,228,8.63,31.13,,4.69,12,25.5,109,4.29,,12.06
+1992,Billy Smith,Central Michigan,RB,69.9,203,10,30.75,,4.72,14,32,114,4.41,,11.47
+1992,Carl Smith,Maine,RB,68.9,188,9.38,30.75,,4.66,7,34,123,4.32,,12.18
+1992,Tony Smith,Southern Miss,RB,72.9,214,9,32,,4.64,,31,120,4.04,,11.63
+1992,Carlos Snow,Ohio State,RB,67.3,204,9,29.75,,4.7,18,32.5,115,4.08,,11.49
+1992,Siran Stacy,Alabama,RB,71.3,203,9.38,32.25,,,,,,,,
+1992,Robert Thomas,Carson-Newman (TN),RB,72.3,215,9.13,33,,4.69,9,34,118,4.3,,11.7
+1992,Peter Tuipulotu,Brigham Young,RB,71.1,215,9,30.75,,,,,,,,
+1992,Nate Turner,Nebraska,RB,73.3,241,9.63,30.88,,4.63,,30.5,121,3.95,,11.21
+1992,Bobby Wright,Wayne State (NE),RB,71.5,197,9.63,30.5,,4.67,6,,115,,,
+1992,Reggie Yarbrough,Cal-State Fullerton,RB,72.5,215,8.88,31.63,,,15,,,,,
+1991,Tony Alford,Colorado State,RB,70,207,9.88,31,,4.75,11,32.5,114,4.37,,11.54
+1991,Al Baker,Kentucky,RB,71,223,9.25,30,,,22,,,,,
+1991,Randy Baldwin,Mississippi,RB,70.6,216,9.5,29.5,,4.57,20,32,117,4.09,,11.57
+1991,Nick Bell,Iowa,RB,74.3,252,10.63,33,,4.52,19,39.5,120,,,
+1991,Eric Bieniemy,Colorado,RB,67.1,208,9.25,29.5,,4.5,19,36,109,,,
+1991,Tony Boles,Michigan,RB,72.8,196,8.88,32,,4.65,4,33,115,4.3,,
+1991,Gary Brown,Penn State,RB,70.1,220,9.25,30,,4.75,17,29,111,4.65,,
+1991,Ivory Lee Brown,Arkansas-Pine Bluff,RB,73.6,243,9.63,32.5,,4.7,7,36,121,4.78,,
+1991,Blaise Bryant,Iowa State,RB,71.3,198,8.88,30.5,,4.63,16,31,111,,,
+1991,Sheldon Canley,San Jose State,RB,68.1,195,9.25,28.5,,4.65,18,31,113,4.35,,11.88
+1991,Aaron Craver,Frenso State (CA),RB,71.5,214,10,30,,4.47,19,38,126,4.29,,11.8
+1991,Stacy Danley,Auburn,RB,74.4,218,10.25,31,,,12,,,,,
+1991,Mike Dingle,South Carolina,RB,74,240,10.25,32.5,,4.85,,31,106,4.71,,12.61
+1991,Ricky Ervins,USC,RB,67,200,9.5,27.5,,4.53,20,27.5,108,4.41,,12.07
+1991,David Fair,Mississippi State,RB,73,212,9.63,32,,4.64,17,32,120,4.14,,11.27
+1991,Albert Fann,Cal State Northridge,RB,72.5,225,9.13,31.5,,4.8,16,30,110,4.51,,12.02
+1991,Hyland Hickson,Michigan State,RB,68.6,217,9.88,30.5,,4.74,17,32,115,4.25,,11.63
+1991,Gerald Hudson,Oklahoma State,RB,68.3,198,9.25,28,,4.6,23,30,107,4.1,,11.41
+1991,Cedric Jackson,TCU,RB,71.9,229,10.13,32,,4.68,25,31.5,115,4.3,,11.8
+1991,Allen Jefferson,Michigan,RB,72.4,224,9.63,30.5,,4.74,9,28.5,111,,,
+1991,Eric Jenkins,Missouri State,RB,70.6,218,9.25,30,,4.84,19,29.5,112,4.42,,11.74
+1991,Duane Kinnon,Syracuse,RB,72.8,230,10.13,32,,4.99,13,31,114,4.24,,11.97
+1991,Darren Lewis,Texas A&M,RB,70.1,219,9.13,29.5,,,11,,,,,
+1991,Greg Lewis,Washington,RB,70.5,214,10.5,31,,4.61,15,39,116,,,
+1991,Ricky Martin,Middle Tennessee State,RB,70,181,9.25,30.5,,4.52,13,34,116,4.22,,11.31
+1991,Fred Mcafee,Mississippi College,RB,69.9,193,9.63,31,,4.6,18,37,122,4.13,,11.39
+1991,Bernie Parmalee,Ball State (IN),RB,71.1,191,9.25,33,,4.8,11,28.5,119,4.23,,11.68
+1991,Roland Poles,Tennessee,RB,72.3,248,10.38,31.5,,,,,,,,
+1991,Amir Rasul,Florida A&M,RB,71.1,191,9.63,30.5,,4.57,23,33,118,4.28,,12.04
+1991,Curvin Richards,Pittsburgh,RB,69.1,200,10.25,29,,,,,,,,
+1991,Reggie Rivers,Texas State,RB,73.4,211,10.13,31,,4.71,17,33.5,117,4.32,,11.62
+1991,Joe Ross,Georgia Southern,RB,72,207,9.75,32.5,,4.7,15,,,,,
+1991,Leonard Russell,Arizona State,RB,73.8,237,9.88,31,,4.78,20,33,112,4.36,,12.2
+1991,Chris Samuels,Texas,RB,70,206,9.38,30.5,,4.7,12,30.5,116,4.3,,11.74
+1991,Chris San Agustin,Augustana (SD),RB,68.1,211,9.13,29,,4.69,23,33.5,101,4.42,,12.24
+1991,Tony Satter,North Dakota State,RB,70.6,207,9,29.5,,4.81,12,27,104,4.23,,11.85
+1991,Tony Stewart,Iowa,RB,72.1,199,9.13,31,,4.72,15,36,122,4.03,,11.02
+1991,Leroy Thompson,Penn State,RB,69.9,210,9.5,30,,4.6,13,32.5,112,4.13,,11.7
+1991,Jon Vaughn,Michigan,RB,69.4,203,9.63,30.5,,,,,,,,
+1991,Anthony Wallace,California,RB,71.9,191,9.13,32.5,,4.52,9,32.5,121,4.31,,11.46
+1991,Ricky Watters,Notre Dame,RB,73,212,9.13,31.5,,4.71,18,34.5,111,4.41,,11.59
+1991,Chuck Weatherspoon,Houston,RB,67.5,229,9.13,28.5,,4.84,19,28,100,4.33,,12.31
+1991,Chuck Webb,Tennessee,RB,69.4,209,9.63,29,,,,,,,,
+1991,Gerald Williams,South Carolina,RB,71.5,219,9,32,,4.74,,29.5,110,,,
+1991,Harvey Williams,LSU,RB,73.6,215,9.38,30,,,,,,,,
+1991,Calvin Windom,LSU,RB,70,212,9.5,29.5,,4.75,22,31.5,112,4.25,,11.69
+1991,Charlie Young,Stanford,RB,72.4,197,9.75,31,,4.58,20,32.5,114,4.3,,11.49
+1990,Johnny Bailey,Texas A&M-Kingsville,RB,67.6,176,9,27.13,,4.6,,,108,,,
+1990,Latin Berry,Oregon,RB,69.6,196,9.25,31.25,,4.45,20,40,131,4.02,,10.96
+1990,Steve Broussard,Washington State,RB,66.3,201,8,28,,4.45,15,31,110,4.29,,11.47
+1990,Dexter Carter,Florida State,RB,68.6,168,8.25,28.63,,4.48,3,34.5,116,3.99,,11.11
+1990,Larry Centers,Stephen F. Austin (TX),RB,70.8,203,10.63,29.88,,,8,,106,,,
+1990,Ken Clark,Nebraska,RB,69.1,203,8.5,30,,4.66,10,34,111,4.27,,
+1990,David Eldridge,Arizona,RB,72.1,215,9.38,33.25,,4.66,19,35.5,116,4.43,,12.06
+1990,Blake Ezor,Michigan State,RB,68.3,181,9.5,29.75,,4.58,17,30.5,108,,,
+1990,Eddie Fuller,LSU,RB,69.1,199,10.5,30.38,,4.61,,35.5,115,4.06,,11.24
+1990,Judd Garrett,Princeton,RB,73,203,8.38,29.63,,4.73,,29,107,4.22,,12.01
+1990,Broderick Graves,Winston-Salem State (NC),RB,71.4,194,8.88,29.75,,4.61,19,31.5,113,4.5,,12.85
+1990,James Gray,Texas Tech,RB,70.1,197,9.25,30,,,,,,,,
+1990,Harold Green,South Carolina,RB,73.5,216,10,31.63,,4.74,16,32,118,4.25,,
+1990,Joe Henderson,Clemson,RB,68.4,187,9.13,28.5,,4.61,11,35,117,4.27,,11.85
+1990,Marc Hicks,Ohio State,RB,72.8,209,9.38,30.88,,,,,,,,
+1990,Harry Jackson,St. Cloud State (MN),RB,70.3,223,10,29.88,,4.8,18,30,115,4.03,,11.22
+1990,Anthony Johnson,Notre Dame,RB,72.3,216,9.25,30.5,,4.83,22,32,112,3.93,,11.42
+1990,Ricky Johnson,Maryland,RB,72,200,10.25,30.88,,4.62,20,36,117,4.22,,12.18
+1990,Myron Jones,Frenso State (CA),RB,69.5,189,7.88,28.63,,4.47,18,37,119,4.56,,
+1990,Bren Lowery,Maryland,RB,70.4,197,9.5,28.88,,4.61,5,33,120,4.28,,11.65
+1990,Brian Mitchell,Southwestern Louisiana,RB,70.1,198,10.25,29.38,,4.59,,32,117,4.01,,
+1990,Andy Murray,Kentucky,RB,73,241,9.5,30.25,,4.94,21,28.5,105,4.42,,12.22
+1990,Mike Owens,Syracuse,RB,71.8,218,7.88,30.25,,4.76,15,30.5,107,,,
+1990,Tony Palmer,TCU,RB,73.3,236,9.75,32,,4.82,18,29.5,117,,,
+1990,Mike Pringle,Cal-State Fullerton,RB,68.3,186,8.75,28.38,,4.53,13,35.5,118,4.25,,11.56
+1990,Alfred Rawls,Kentucky,RB,69.1,205,8.38,29.38,,4.58,18,32.5,106,,,
+1990,Donnie Riley,Central Michigan,RB,68.4,205,8.63,29,,4.66,13,31.5,105,4.5,,12.02
+1990,James Rouse,Arkansas,RB,71.6,214,8,30.38,,4.67,,33.5,110,4.29,,11.77
+1990,George Searcy,East Tennessee,RB,70.8,204,10.25,31.25,,4.79,15,33,112,4.48,,12.03
+1990,Dee Smith,Louisville,RB,71.1,193,8.75,30.88,,4.67,,36,119,,,
+1990,Anthony Thompson,Indiana,RB,71.1,207,9.88,29.5,,4.77,24,33.5,,,,
+1990,Darrell Thompson,Minnesota,RB,72.5,219,8.75,30.5,,4.62,16,34.5,114,,,
+1990,Chris Warren,Ferrum (VA),RB,73.8,225,10,31.75,,4.61,14,36.5,114,,,
+1990,Cordell Woods,"Minnesota State, Mankatao",RB,71.4,246,8.63,28,,4.78,14,33,113,4.5,,12.34
+1989,Scott Ankrom,TCU,RB,72.5,190,,,,4.6,10,33.5,110,4.21,,11.56
+1989,Steve Avery,Northern Michigan,RB,72.8,210,,,,4.76,15,27,106,4.09,,11.53
+1989,Eric Ball,UCLA,RB,73.3,215,,,,4.58,18,33.5,118,4.45,,11.9
+1989,Jim Bell,Boston College,RB,72.1,206,,,,,14,,,,,
+1989,Deon Booker,Louisville,RB,69.9,201,,,,4.67,13,31.5,109,4.45,,12.1
+1989,Anthony Brown,West Virginia,RB,69.1,213,,,,4.61,14,29.5,101,4.4,,11.56
+1989,Robert Drummond,Syracuse,RB,74.4,204,,,,4.56,13,33,117,4.18,,11.51
+1989,Heikoti Fakava,Hawaii,RB,71.5,218,,,,4.75,12,30.5,107,4.38,,12.16
+1989,Victor Floyd,Florida State,RB,71.6,208,,,,4.56,6,34.5,117,4.15,,11.98
+1989,Charvez Foger,Nevada Las Vegas,RB,69.4,211,,,,,17,,,,,
+1989,Mark Green,Notre Dame,RB,71.1,184,,,,4.62,14,30,105,4.4,,11.96
+1989,John Harvey,Texas-El Paso,RB,71.5,184,,,,4.64,,29.5,114,4.2,,11.51
+1989,Joe Henderson,Iowa State,RB,71.9,205,,,,,17,,,,,
+1989,Tony Hinz,Harvard,RB,73.6,212,,,,4.76,15,30.5,121,4.17,,11.24
+1989,Tracy Johnson,Clemson,RB,71.9,231,,,,4.88,19,,,,,
+1989,Undra Johnson,West Virginia,RB,69.3,198,,,,4.6,15,30,106,4.34,,11.75
+1989,Keith Jones,Illinois,RB,73,208,,,,4.58,16,37.5,124,,,
+1989,Doug Lloyd,North Dakota State,RB,72.6,214,,,,4.64,14,31.5,115,4.06,,10.98
+1989,Mike Mcgee,Bowling Green (OH),RB,72.3,228,,,,4.75,18,32,114,4.24,,11.81
+1989,Todd Mcnair,Temple,RB,72.6,185,,,,4.7,,38,124,4.15,,11.52
+1989,Dave Meggett,Towson (MD),RB,67.3,174,,,,4.64,20,34.5,122,4.26,,11.72
+1989,Eric Mitchel,Oklahoma,RB,71.4,205,,,,4.44,12,34,116,4.2,,11.49
+1989,Greg Paterra,Slippery Rock (PA),RB,70.6,210,,,,4.56,21,34,117,4.48,,11.96
+1989,Damon Stell,Oklahoma,RB,70.5,199,,,,4.74,10,33,114,4.35,,11.7
+1989,Lewis Tillman,Jackson State (MS),RB,71,193,,,,4.67,16,31.5,109,4.31,,11.86
+1989,Jamie Townsend,Eastern Washington,RB,70.3,179,,,,4.7,12,30.5,104,4.49,,12.18
+1989,Alonzo Washington,Arizona,RB,70.5,212,,,,4.75,,29.5,104,4.3,,11.82
+1989,Vince Workman,Ohio State,RB,70,195,,,,4.74,13,30,110,,,
+1988,Marvin Allen,Tulane (LA),RB,69.8,213,9,,,4.55,15,31,110,4.54,,12.56
+1988,Richard Calvin,Washington State,RB,72.3,198,8.25,,,4.7,10,28,109,4.44,,11.87
+1988,Patrick Collins,Oklahoma,RB,69.4,197,9.25,,,4.49,10,33.5,110,4.29,,11.74
+1988,George Cooper,Ohio State,RB,73,245,9.5,,,4.9,16,30,109,4.29,,12.01
+1988,Robert Delpino,Missouri,RB,71.4,201,9.5,,,4.54,13,34,120,4.15,,11.47
+1988,Lucius Floyd,Nevada Las Vegas,RB,70.6,190,8.5,,,4.69,12,31.5,117,4.28,,12.08
+1988,Kenny Gamble,Colgate (NY),RB,70.5,196,8.5,,,4.69,,30,111,4.48,,11.86
+1988,Gaston Green,UCLA,RB,70.3,189,8.5,,,4.32,8,33.5,119,4.27,,12
+1988,Kevin Harmon,Iowa,RB,71.9,196,8.5,,,4.6,8,27.5,106,4.19,,11.96
+1988,Mark Higgs,Kentucky,RB,67,195,8.5,,,4.53,17,43,126,4.16,,11.38
+1988,Alan Hooker,North Carolina A&T,RB,73,190,9.75,,,4.69,,33.5,123,4.5,,
+1988,William Howard,Tennessee,RB,71.9,242,8.5,,,4.89,17,26,104,4.42,,11.74
+1988,Kenny Jackson,San Jose State,RB,70.8,191,9.5,,,4.77,7,28.5,114,4.54,,12.23
+1988,Tony Jeffery,TCU,RB,70.9,208,9,,,4.48,15,28,115,4.4,,11.76
+1988,Rory Johnson,St. Joseph's (IN),RB,70.5,222,9,,,4.81,31,31.5,111,4.56,,12.49
+1988,Keith Jones,Nebraska,RB,69.1,179,8,,,4.38,6,36,117,4.19,,11.48
+1988,Gordon Lockbaum,Holy Cross (MA),RB,70.6,195,8.75,,,4.75,16,30,111,4.13,,11.4
+1988,Darryl Mcgill,Wake Forest,RB,69.9,213,9.5,,,4.59,20,30.5,,,,
+1988,Jamie Morris,Michigan,RB,66.8,185,8.25,,,4.54,,30.5,110,4.41,,11.58
+1988,Burton Murchison,Lamar (TX),RB,71.8,205,9.5,,,,,,,,,
+1988,Carl Painter,Hampton (VA),RB,69.5,184,9.5,,,,9,,,,,
+1988,Gary Patton,Eastern Michigan,RB,68.5,193,9.75,,,4.63,8,30.5,108,4.32,,11.42
+1988,James Primus,UCLA,RB,70.8,196,8,,,4.49,14,33.5,114,4.28,,11.48
+1988,Harvey Reed,Howard (DC),RB,71,181,9,,,4.5,9,32,119,4.21,,11.49
+1988,James Saxon,San Jose State,RB,71.1,205,9.25,,,4.67,12,31,115,4.42,,11.97
+1988,John Stephens,Northwestern State (LA),RB,72.1,220,8.5,,,4.41,23,35.5,116,4.22,,11.34
+1988,Lars Tate,Georgia,RB,73.6,213,8.75,,,4.47,18,31.5,124,4.37,,11.69
+1988,Thurman Thomas,Oklahoma State,RB,69.9,198,8.75,,,4.47,13,33,114,4.21,,11.39
+1988,Reggie Ware,Auburn,RB,73,241,8.5,,,4.59,17,34,109,4.4,,12.01
+1988,Lorenzo White,Michigan State,RB,70.6,207,9,,,,,,,,,
+1988,Warren Williams,Miami (FL),RB,72.1,190,8,,,,8,,,,,
+1988,Keith Woodside,Texas A&M,RB,71.4,203,8.5,,,4.59,14,30.5,113,4.3,,11.42
+1987,Steve Bartalo,Colorado State,RB,68.8,201,9.5,28,,4.83,14,28.5,114,4.05,,11.34
+1987,Rod Bernstine,Texas A&M,RB,75,238,10,32.25,,4.68,18,29.5,112,4.39,,12.01
+1987,Tom Brown,Pittsburgh,RB,72.5,218,8.5,29.75,,4.69,19,25.5,97,4.35,,11.8
+1987,Tony Burse,Middle Tennessee State,RB,72,220,9.5,30.5,,4.71,20,27.5,104,4.88,,12.37
+1987,D.J. Dozier,Penn State,RB,72.3,204,10.25,31.25,,,,34,122,,,
+1987,Doug Dubose,Nebraska,RB,71,191,8.75,29.5,,,11,,,,,
+1987,Larry Emory,Wisconsin,RB,68.6,193,9.25,30,,4.6,13,30,116,4.02,,11.47
+1987,Terrence Flagler,Clemson,RB,71.6,199,9.75,30,,4.52,15,30.5,113,4.41,,12.2
+1987,Kenneth Flowers,Clemson,RB,71.9,211,9.5,31.25,,4.44,14,31,119,4.4,,11.86
+1987,Tracy Ham,Georgia Southern,RB,70.3,196,9.25,30,,4.74,6,28,110,4.28,,11.8
+1987,Lakei Heimuli,Brigham Young,RB,70.8,219,9.5,30,,4.81,20,29.5,101,4.75,,12.63
+1987,John Holifield,West Virginia,RB,71.1,208,9.25,31,,4.55,14,30.5,115,4.15,,11.67
+1987,Alfred Jenkins,Arizona,RB,75.3,218,10.25,32,,4.74,,31,116,4.49,,
+1987,Tim Jessie,Auburn,RB,71.3,190,9.5,31.25,,,12,,,,,
+1987,Bobby Morse,Michigan State,RB,69.6,201,9.75,29.75,,4.65,14,29,110,4.07,,11.5
+1987,Christian Okoye,Azusa Pacific (CA),RB,73.6,250,9.75,33,,,21,31,,,,
+1987,Darryl Oliver,Miami (FL),RB,70.8,194,9.5,31.5,,4.63,12,28,112,4.4,,12.07
+1987,Paul Palmer,Temple,RB,69.3,184,9.75,29.75,,4.53,11,30,116,4.22,,11.49
+1987,Kerry Porter,Washington State,RB,73.6,209,9.5,31.75,,4.47,9,32.5,118,4.18,,11.48
+1987,John Settle,Appalachian State (NC),RB,69.3,207,8.75,30.5,,4.75,10,29,112,4.51,,12.14
+1987,Edwin Simmons,Texas,RB,75.3,237,10,34.5,,4.54,12,34,123,4.77,,12.63
+1987,Don Smith,Mississippi State,RB,71.3,199,,,,4.67,11,30,114,,,
+1987,Steve Smith,Penn State,RB,72.9,244,10.75,31,,,12,,,,,
+1987,Timmy Smith,Texas Tech,RB,70.6,216,9,27.75,,,10,,,,,
+1987,Troy Stradford,Boston College,RB,68.8,192,,,,4.65,,31,116,4.55,,11.18
+1987,George Swarn,Miami (OH),RB,70.8,205,8.5,32.25,,4.6,16,33.5,121,4.25,,11.34
+1987,Spencer Tillman,Oklahoma,RB,70.4,202,9.25,29,,4.58,18,27,103,4.21,,11.51
+1987,Maurice Williams,Virginia Tech,RB,71.5,213,7.5,31,,4.77,13,28,104,4.57,,12.37
+1987,Carl Woods,Vanderbilt,RB,71,198,9.75,30.5,,4.6,11,27.5,106,4.19,,11.82
+1987,John Wooldridge,Ohio State,RB,68.4,193,,,,,,,,,,
